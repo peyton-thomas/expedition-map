@@ -40,7 +40,7 @@ m = folium.Map(
 # -------------------------------
 # 3. Add GPX routes (multiple files allowed)
 # -------------------------------
-gpx_files = ["day1-2025-06-26.gpx", "day2-2025-06-27.gpx", "day3-2025-06-28.gpx", "day4--2025-06-29.gpx", "day5--2025-06-30.gpx", "day6-2025-07-01.gpx", "day7-2025-07-02.gpx", "day8-2025-07-03.gpx", "sud-est (1).gpx"]  # update with your filenames
+gpx_files = ["day1-2025-06-26.gpx", "day2-2025-06-27.gpx", "day3-2025-06-28.gpx", "day4--2025-06-29.gpx", "day5--2025-06-30.gpx", "day6-2025-07-01.gpx", "day7-2025-07-02.gpx", "day8-2025-07-03.gpx", "Sud-Est.gpx"]  # update with your filenames
 
 for gpx_file in gpx_files:
     try:
