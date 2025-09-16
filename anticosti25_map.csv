@@ -1,0 +1,134 @@
+name,team,year,type,salmon_river,site,latitude,longitude,date,time,temperature,conductivity,duration,fish_caught,photos
+L'Anse aux fraises,Nord-Ouest,2025,ruisseau,,1,49.83605,-64.4497,26/6/25,9:45,8.1748125,225.64375,0:45,,Images/Anse_aux_fraises_site1
+Lac à la Marne,Nord-Ouest,2025,lac,,1,49.87939,-64.4873,26/6/25,13:17,23.6229375,0,0:31,,Images/marne_1
+Lac à la Marne,Nord-Ouest,2025,lac,,2,49.87678,-64.4821,26/6/25,14:07,23.870375,350,0:17,,Images/marne2
+Ruisseau Harvey,Nord-Ouest,2025,ruisseau,,1,49.88384,-64.5077,26/6/25,15:36,22.57877778,271.538889,0:43,,Images/harvey1
+Ruisseau Harvey,Nord-Ouest,2025,ruisseau,,2,49.87548,-64.5054,26/6/25,16:38,22.5104,269.97,0:27,,
+Lac du ruisseau,Nord-Ouest,2025,lac,,2,49.9125,-64.426,27/6/25,8:50,19.40183333,200.66,0:25,,Images/ldr_2
+Lac du ruisseau,Nord-Ouest,2025,lac,,1,49.9147,-64.4202,27/6/25,9:31,20.7562,162.875,0:18,,Images/ldr_1
+Ruisseau grand Makasti,Nord-Ouest,2025,ruisseau,,1,49.93759,-64.2589,27/6/25,14:50,17.8765,306.7125,0:38,,Images/ruis_gm1
+Ruisseau grand Makasti,Nord-Ouest,2025,ruisseau,,2,49.93475,-64.2564,27/6/25,15:45,17.90366667,277.158333,0:33,,"Images/ruis_gm2, Images/ruis_gm2(2)"
+Ruisseau grand Makasti,Nord-Ouest,2025,ruisseau,,3,49.93099,-64.2593,27/6/25,16:51,17.72091667,273.283333,0:33,,"Images/ruis_gm3, Images/ruis_gm3(2)"
+Pointe Nord,Nord-Ouest,2025,ruisseau,,1,49.94569,-64.1716,28/6/25,7:07,13.55735714,245.558333,0:31,1,"Images/pointe_nord1, Images/pointe_nord1(2)"
+Pointe Nord,Nord-Ouest,2025,ruisseau,,2,49.94145,-64.1701,28/6/25,8:12,13.8365,246.441667,0:32,,Images/pointe_nord2
+Pointe Nord,Nord-Ouest,2025,ruisseau,,3,49.93966,-64.1677,28/6/25,9:09,13.653,245.975,0:13,,Images/pointe_nord3
+Baie des trois ruisseaux,Nord-Ouest,2025,ruisseau,,1,49.9264,-64.0735,28/6/25,11:49,18.86958333,57.075,0:31,4,Images/btr_1
+Anse Caron,Nord-Ouest,2025,ruisseau,,1,49.92121,-64.0045,28/6/25,13:55,15.133625,134.93125,0:40,,Images/anse_caron1
+Baie Martin,Nord-Ouest,2025,ruisseau,,1,49.87752,-63.8732,29/6/25,6:53,6.42675,193.308333,0:33,,Images/baie_martin1
+Baie Martin,Nord-Ouest,2025,ruisseau,,2,49.87538,-63.8766,29/6/25,7:45,4.993333333,185.233333,0:31,,Images/baie_martin2
+Havre du sauvage,Nord-Ouest,2025,ruisseau,,1,49.87178,-63.781,29/6/25,10:20,12.9394,236.07,0:27,,Images/hds_1
+Havre du sauvage,Nord-Ouest,2025,ruisseau,,2,49.86971,-63.7757,29/6/25,11:08,14.06716667,202.9,0:31,,Images/hds_2
+Rivière à l'Huile,Nord-Ouest,2025,rivière,yes,1,49.84141,-63.553,30/6/25,6:33,12.41825,2515.00625,0:31,,Images/huile_1
+Rivière à l'Huile,Nord-Ouest,2025,rivière,yes,2,49.83688,-63.5544,30/6/25,7:24,13.7835,233.08,0:22,,Images/huile2
+Rivière à l'Huile,Nord-Ouest,2025,rivière,yes,3,49.83454,-63.56,30/6/25,8:04,13.9895,233.9625,0:18,,
+Ruisseau Nugg,Nord-Ouest,2025,ruisseau,,1,49.83041,-63.4249,30/6/25,11:12,15.1035,262.825,0:21,,"Images/nugg_1, Images/nugg_1(2)"
+Ruisseau Nugg,Nord-Ouest,2025,ruisseau,,2,49.82632,-63.4278,30/6/25,11:56,16.0094,270.01,0:24,,Images/nugg_2
+Ruisseau Nugg,Nord-Ouest,2025,ruisseau,,3,49.82309,-63.4298,30/6/25,12:38,17.0117,271.44,0:25,,Images/nugg_3
+Rivière du Castor,Nord-Ouest,2025,rivière,,1,49.81108,-63.3087,30/6/25,17:24,15.19225,235.925,0:20,,Images/castor_1
+Rivière du Castor,Nord-Ouest,2025,rivière,,2,49.80821,-63.3093,30/6/25,18:00,14.9483,233.14,0:22,,Images/castor_2
+Ruisseau Savoy,Nord-Ouest,2025,ruisseau,,1,49.79712,-63.2459,1/7/2025,7:37,14.81125,245.941667,0:30,,Images/savoy_1
+Ruisseau Savoy,Nord-Ouest,2025,ruisseau,,2,49.79364,-63.2456,1/7/2025,8:25,15.4385,239.4375,0:22,,Images_savoy2
+Ruisseau Savoy,Nord-Ouest,2025,ruisseau,,3,49.79156,-63.2398,1/7/2025,9:02,15.2639,238.8125,0:21,,Images/savoy_3
+Anse à la Sauvagesse,Nord-Ouest,2025,ruisseau,,1,49.78074,-63.1537,1/7/2025,12:27,13.907375,244.125,0:23,,Images/Anse_Sauvagesse_1
+Anse à la Sauvagesse,Nord-Ouest,2025,ruisseau,,2,49.77804,-63.1564,1/7/2025,13:11,13.672375,246.3875,0:20,,Images/sauvagesse_2
+Anse à la Sauvagesse,Nord-Ouest,2025,ruisseau,,3,49.77663,-63.1597,1/7/2025,13:52,11.556,235.3125,0:21,,Images/sauvagesse_3
+Rivière MacDonald,Nord-Ouest,2025,rivière,yes,1,49.75779,-63.0609,1/7/2025,17:20,18.1445,NA,0:23,,"Images/macdonald_1, Images/macdonald_1(2)"
+Rivière MacDonald,Nord-Ouest,2025,rivière,yes,2,49.75531,-63.0663,1/7/2025,18:00,18.257,NA,0:21,,Images/macdonald_2
+Rivière MacDonald,Nord-Ouest,2025,rivière,yes,3,49.75593,-63.0724,1/7/2025,18:34,18.34275,NA,0:16,,Images/macdonald_3
+Ruisseau Wilcox,Nord-Ouest,2025,ruisseau,,1,49.72104,-62.9349,2/7/2025,9:11,15.6902,NA,0:24,,"Images/wilcox_1, Images/wilcox_1(2)"
+Ruisseau Wilcox,Nord-Ouest,2025,ruisseau,,2,49.72002,-62.9384,2/7/2025,9:52,18.1345,NA,0:22,,"Images/wilcox_2, Images/wilcox_2(2)"
+Ruisseau Wilcox,Nord-Ouest,2025,ruisseau,,3,49.71967,-62.944,2/7/2025,10:28,17.4685,NA,0:19,,Images/wilcox_3
+Rivière Chicotte,Sud-Est,2025,rivière,yes,1,49.22407,-63.04831,2/7/2025,9:07,NA,NA,0:34,,"Images/Chicotte_1_2025, Images/Chicotte_1(2)_2025, Images/Chicotte_1(3)_2025, Images/Chicotte_1(4)_2025"
+Rivière Chicotte,Sud-Est,2025,rivière,yes,2,49.22511,-63.0414,2/7/2025,10:14,NA,NA,0:32,,"Images/Chicotte_2_2025, Images/Chicotte_2(2)_2025, Images/Chicotte_2(3)_2025"
+Rivière Chicotte,Sud-Est,2025,rivière,yes,3,49.22876,-63.039,2/7/2025,10:59,NA,NA,0:17,,"Images/Chicotte_3_2025, Images_3(2)_2025"
+Rivière Aux Plats,Sud-Est,2025,rivière,yes,1,49.21424,-63.00918,2/7/2025,12:12,NA,NA,0:28,,"Images/AuxPlats_1_2025, Images/AuxPlats_1(2)_2025"
+Rivière Aux Plats,Sud-Est,2025,rivière,yes,2,49.21755,-63.00451,2/7/2025,12:59,NA,NA,0:27,,"Images/AuxPlats_2_2025, Images/AuxPlats_2(2)_2025"
+Rivière Aux Plats,Sud-Est,2025,rivière,yes,3,49.22187,-63.00219,2/7/2025,13:37,NA,NA,0:27,,"Images/AuxPlats_3_2025, Images/AuxPlats_3(2)_2025"
+Rivière à la Patate,Nord-Ouest,2025,rivière,yes,1,49.70664,-62.9233,2/7/2025,12:19,25.20425,NA,0:18,,"Images/patate_1, Images/patate_1(2)"
+Rivière à la Patate,Nord-Ouest,2025,rivière,yes,2,49.70588,-63.9302,2/7/2025,12:50,21.04975,NA,0:21,,Images/patate_2
+Rivière à la Patate,Nord-Ouest,2025,rivière,yes,3,49.70195,-62.9325,2/7/2025,13:27,26.71075,NA,0:22,,Images/patate_3
+Rivière du Pavilion,Sud-Est,2025,rivière,yes,1,49.19132,-62.90419,2/7/2025,16:03,NA,NA,0:23,,
+Rivière du Pavilion,Sud-Est,2025,rivière,yes,2,49.19533,-62.90233,2/7/2025,16:43,NA,NA,0:26,,
+Rivière du Pavilion,Sud-Est,2025,rivière,yes,3,49.19809,-62.90047,2/7/2025,17:12,NA,NA,0:32,,
+Étang à la Truite,Nord-Ouest,2025,etang,,1,49.64993,-63.1248,2/7/2025,19:12,17.72666667,NA,0:12,,
+Ruisseau Martin,Sud-Est,2025,ruisseau,yes,1,49.16532,-62.79307,2/7/2025,20:33,NA,NA,0:32,,"Images/Martin_1_2025, Images/Martin_1(2)_2025, Images/Martin_1(3)_2025"
+Rivière Ferrée,Sud-Est,2025,rivière,yes,1,49.15493,-62.71482,3/7/2025,8:31,NA,NA,0:37,,"Images/Ferree_1_2025, Images/Ferree_1(2)_2025"
+Rivière Ferrée,Sud-Est,2025,rivière,yes,2,49.15992,-62.71511,3/7/2025,9:26,NA,NA,0:28,,Images/Ferree_2_2025
+Rivière Ferrée,Sud-Est,2025,rivière,yes,3,49.16317,-62.71744,3/7/2025,9:59,NA,NA,0:27,,
+Lac du Rat Musqué,Nord-Ouest,2025,lac,,1,49.56704,-63.1365,3/7/2025,10:52,28.70416667,NA,0:28,,Images/ratmusque_1
+Lac du Rat Musqué,Nord-Ouest,2025,lac,,2,49.5651,-63.1343,3/7/2025,11:33,26.52433333,NA,0:13,,
+Rivière Maccan,Sud-Est,2025,rivière,yes,1,49.14494,-62.65089,3/7/2025,11:47,NA,NA,0:22,,Images/Maccan_1_2025
+Rivière Maccan,Sud-Est,2025,rivière,yes,2,49.14749,-62.64617,3/7/2025,12:25,NA,NA,0:30,,Images/Maccan_2_2025
+Rivière Maccan,Sud-Est,2025,rivière,yes,3,49.15166,-62.64598,3/7/2025,13:02,NA,NA,0:26,,
+Lac à la tête,Nord-Ouest,2025,lac,,1,49.55877,-63.1015,3/7/2025,14:05,31.58616667,NA,0:28,,Images/lactete_1
+Lac à la tête,Nord-Ouest,2025,lac,,2,49.55728,-63.0974,3/7/2025,14:51,24.03825,NA,0:16,,Images/lactete_2
+Petite rivière de la Chaloupe,Sud-Est,2025,rivière,yes,1,49.13715,-62.57159,3/7/2025,15:13,NA,NA,0:22,,"Images/PLC_1_2025, Images/PLC_1(2)_2025"
+Lac Wickenden,Nord-Ouest,2025,lac,,1,49.54641,-63.0814,3/7/2025,15:44,25.36175,NA,0:21,,
+Lac Wickenden,Nord-Ouest,2025,lac,,2,49.54396,-63.0781,3/7/2025,16:18,27.61625,NA,0:16,,
+Rivière de la Chaloupe,Sud-Est,2025,rivière,yes,1,49.13861,-62.53845,3/7/2025,16:42,NA,NA,0:40,,"Images/Chaloupe_1_2025, Images/Chaloupe_1(2)_2025"
+Rivière de la Chaloupe,Sud-Est,2025,rivière,yes,2,49.14037,-62.53837,3/7/2025,17:40,NA,NA,0:25,,
+Rivière de la Chaloupe,Sud-Est,2025,rivière,yes,3,49.14285,-62.53361,3/7/2025,18:10,NA,NA,0:30,,
+Ruisseau Box,Sud-Est,2025,ruisseau,yes,1,49.10636,-62.39773,4/7/2025,10:13,NA,NA,0:28,,
+Rivière Bell,Sud-Est,2025,rivière,yes,1,49.07194,-62.20875,5/7/2025,7:22,NA,NA,0:32,,Images/Bell_1_2025
+Rivière Bell,Sud-Est,2025,rivière,yes,2,49.07251,-62.20451,5/7/2025,8:01,NA,NA,0:24,,Images/Bell_2_2025
+Rivière Bell,Sud-Est,2025,rivière,yes,3,49.07704,-62.20224,5/7/2025,8:39,NA,NA,0:28,,"Images/Bell_3_2025, Images/Bell_3(2)_2025"
+Lac du Renard,Sud-Est,2025,lac,,1,49.19834,-62.00722,5/7/2025,16:46,NA,NA,0:35,,
+Lac du Renard,Sud-Est,2025,lac,,2,49.19622,-62.00663,5/7/2025,17:37,NA,NA,0:43,,
+Lagune de Baie Innommée,Sud-Est,2025,lagune,,1,49.26311,-61.80586,6/7/2025,15:03,22.90444444,804.255556,0:43,,
+Lagune de Baie Innommée,Sud-Est,2025,lagune,,3,49.27105,-61.80209,6/7/2025,16:06,22.65833333,549.87,0:29,,Images/Innommee_3_2025
+Rivière du Renard,Sud-Est,2025,rivière,yes,1,49.28921,-61.83971,6/7/2025,18:28,20.51666667,12146.3778,0:39,,
+Rivière du Renard,Sud-Est,2025,rivière,yes,2,49.28903,-61.8398,6/7/2025,19:28,20.60166667,323.658333,0:28,,"Images/Renard_2_2025, Images/Renard_2(2)_2025"
+Rivière du Renard,Sud-Est,2025,rivière,yes,3,49.28742,-61.85175,6/7/2025,20:09,20.49833333,292.416667,0:28,,Images/Renard_3_2025
+Rivière to Lac Velleda,Sud-Est,2025,rivière,,2,49.34107,-61.96774,7/7/2025,10:41,19.74111111,183.294444,0:49,,"Images/LV_2_2025, Images/LV_2(2)_2025, Images/LV_2(3)_2025"
+Rivière Prinsta,Sud-Est,2025,rivière,,1,49.34882,-61.97625,7/7/2025,12:52,22.51,330.064286,0:37,,Images_Prinsta_1_2025
+Rivière Prinsta,Sud-Est,2025,rivière,,2,49.34805,-61.98253,7/7/2025,13:48,25.545,262.075,0:31,,Images/Prinsta_2_2025
+Rivière Prinsta,Sud-Est,2025,rivière,,3,49.34915,-61.98873,7/7/2025,14:31,24.665,252.2,0:32,,
+Rivière Schmitt,Sud-Est,2025,rivière,,3,49.36992,-62.08632,8/7/2025,7:22,16.38666667,269.325,0:31,,Images/Schmitt_3_2025
+Rivière Schmitt,Sud-Est,2025,rivière,,2,49.37435,-62.08019,8/7/2025,8:23,16.74333333,276.805556,0:47,,"Images/Schmitt_2_2025, Images/Schmitt_2(2)_2025"
+Rivière Schmitt,Sud-Est,2025,rivière,,1,49.37705,-62.084,8/7/2025,9:26,21.20714286,370.992857,0:35,,"Images/Schmitt_1_2025, Images/Schmitt_1(2)_2025, Images/Schmitt_1(3)_2025"
+Rivière aux Saumons,Sud-Est,2025,rivière,yes,1,49.41936,-62.24899,9/7/2025,7:05,18.733,1945.25,0:46,,"Images/AuxSaumons_1_2025, Images/AuxSaumons_1(2)_2025"
+Rivière aux Saumons,Sud-Est,2025,rivière,yes,2,49.41582,-62.25008,9/7/2025,8:09,17.755,256.425,0:31,,
+Rivière aux Saumons,Sud-Est,2025,rivière,yes,3,49.41523,-62.2549,9/7/2025,8:57,17.02857143,245.314286,0:37,,Images/AuxSaumons_3_2025
+Rivière Natiscotec,Sud-Est,2025,rivière,,1,49.50096,-62.42221,10/7/2025,15:56,18.31666667,255.441667,0:33,,"Images/Natistotec_1_2025, Images/Natistotec_1(2)_2025"
+Canards,Sud-Ouest,2024,rivière,,1,49.7675,-64.2167,21/08/2024,14:15,21.09,606.545,0:56,8,Images/Canards_1_2024
+Canards,Sud-Ouest,2024,rivière,,2,49.756,-64.22,21/08/2024,15:29,18.84166667,314.5666667,0:30,,"Images/Canards_2_2024, Images/Canards_2(2)_2024"
+Canards,Sud-Ouest,2024,rivière,,3,49.764,-64.22,21/08/2024,16:17,18.14166667,306.0666667,0:29,,"Images/Canards_3_2024, Images/Canards_3(2)_2024"
+La Petite Riviere,Sud-Ouest,2024,rivière,,1,49.74,-64.16,22/08/2024,7:27,14.13666667,241.7333333,0:31,,"Images/LPR_1_2024, Images/LPR_1(2)_2024"
+La Petite Riviere,Sud-Ouest,2024,rivière,,2,49.74,-64.157,22/08/2024,8:13,14.528,239.52,0:25,,"Images/LPR_2_2024, Images/LPR_2(2)_2024"
+La Petite Riviere,Sud-Ouest,2024,rivière,,3,49.75,-64.156,22/08/2024,8:54,15.2225,246.3625,0:19,,"Images/LPR_3_2024, Images/LPR_3(2)_2024"
+Bec Scie,Sud-Ouest,2024,rivière,yes,1,49.726,-64.115,22/08/2024,13:25,21.084,1748.44,0:24,,"Images/BecScie_1_2025, Images/BecScie_1(2)_2025"
+Bec Scie,Sud-Ouest,2024,rivière,yes,2,49.724,-64.063,22/08/2024,11:40,20.43333333,277.8083333,0:26,,
+Bec Scie,Sud-Ouest,2024,rivière,yes,3,49.733,-64.061,22/08/2024,12:31,22.35,286.95,0:27,,
+Sainte Marie,Sud-Ouest,2024,rivière,yes,2,49.677,-63.941,22/08/2024,16:50,18.96,290.2166667,0:18,,"Images/SteMarie_2_2024, Images/SteMarie_2(2)_2024"
+Cailloux,Sud-Ouest,2024,rivière,yes,1,49.659,-63.896,23/08/2024,8:15,16.72333333,312.5833333,0:18,,"Images/Cailloux_1_2024, Images/Cailloux_1(2)_2024"
+Cailloux,Sud-Ouest,2024,rivière,yes,2,49.721,-63.891,23/08/2024,8:53,16.7,274.8166667,0:14,,"Images/Cailloux_2_2024, Images/Cailloux_2(2)_2024"
+Cailloux,Sud-Ouest,2024,rivière,yes,3,49.745,-63.951,23/08/2024,9:20,16.82666667,281.3166667,0:14,,"Images/Cailloux_3_2024, Images/Cailloux_3(2)_2024"
+Sainte Anne,Sud-Ouest,2024,rivière,,1,49.694,-63.97,23/08/2024,10:58,14.025,367.35,0:11,,"Images/SteAnne_1_2024, Images/SteAnne_1(2)_2024"
+Sainte Anne,Sud-Ouest,2024,rivière,,2,49.63,-63.83,23/08/2024,11:36,13.2,265.2,0:11,,"Images/SteAnne_2_2024, Images/SteAnne_2(2)_2024"
+La Loutre,Sud-Ouest,2024,rivière,yes,1,49.71,-64.053,23/08/2024,13:06,16.41,1783.866667,0:15,,
+La Loutre,Sud-Ouest,2024,rivière,yes,2,49.69,-63.846,23/08/2024,13:56,16.09,289.9333333,0:15,,
+La Loutre,Sud-Ouest,2024,rivière,yes,3,49.68,-63.79,23/08/2024,14:27,16.25333333,276.9333333,0:15,,
+Ruisseau Baleine,Pêcheurs des homards,2025,ruisseau,,1,49.09027239,-61.73398337,6/6/2025,,,,,19,
+Rivière du Renard,Nozais et Bernatchez,2025,rivière,yes,1-0m,49.268922,-61.801642,23/05/2025,13:40,,,0:53,,
+Rivière du Renard,Nozais et Bernatchez,2025,rivière,yes,1-3m,49.268894,-61.801658,23/05/2025,14:30,,,0:30,,
+Rivière du Renard,Nozais et Bernatchez,2025,rivière,yes,1-6m,49.26885,-61.80165,23/05/2025,15:00,,,0:25,,
+Baie de la Tour,Nozais et Bernatchez,2025,lagune,,1-0m,49.513472,-62.444053,25/05/2025,13:15,,,1:00,,
+Baie de la Tour,Nozais et Bernatchez,2025,lagune,,1-3m,49.513536,-62.444244,25/05/2025,14:16,,,0:49,,
+Baie de la Tour,Nozais et Bernatchez,2025,lagune,,1-6m,49.513628,-62.444303,25/05/2025,15:10,,,0:38,,
+Baie de la Tour,Nozais et Bernatchez,2025,lagune,,3-0m,49.515142,-62.441803,25/05/2025,16:11,,,0:39,,
+Baie de la Tour,Nozais et Bernatchez,2025,lagune,,3-3m,49.515072,-62.441778,25/05/2025,16:57,,,,,
+Baie de la Tour,Nozais et Bernatchez,2025,lagune,,3-6m,49.515,-62.441758,25/05/2025,17:40,,,0:55,,
+Galiotte,Nozais et Bernatchez,2025,rivière,yes,3,49.284328,-63.217603,29/05/2025,14:30,,,0:45,,
+Galiotte,Nozais et Bernatchez,2025,rivière,yes,2,49.279994,-63.222708,29/05/2025,15:30,,,1:30,,
+Galiotte,Nozais et Bernatchez,2025,rivière,yes,1,49.277789,-63.225061,29/05/2025,14:30,,,1:13,,
+Jupiter,Nozais et Bernatchez,2025,rivière,yes,1,49.478531,-63.612581,30/05/2025,14:40,,,1:00,,
+Jupiter,Nozais et Bernatchez,2025,rivière,yes,2,49.477664,-63.606136,30/05/2025,14:50,,,1:28,,
+Jupiter,Nozais et Bernatchez,2025,rivière,yes,3,49.476483,-63.599428,30/05/2025,15:55,,,0:30,,
+Lac Plantain,Nozais et Bernatchez,2025,lac,,1,49.830947,-64.3813,31/05/2025,13:00,,,0:35,,
+Lac Plantain,Nozais et Bernatchez,2025,lac,,2,49.835161,-64.3813,31/05/2025,13:00,,,0:55,,
+Lac Plantain,Nozais et Bernatchez,2025,lac,,3,49.839697,-64.380714,31/05/2025,13:40,,,0:25,,
+Lac Plantain,Daoust,2025,lac,,1,49.871057,-64.401075,26/06/2025,8:35,,,1:05,,
+Lac Plantain,Daoust,2025,lac,,2,49.867395,-64.401546,26/06/2025,9:57,,,0:52,,
+Lac Plantain,Daoust,2025,lac,,3,49.862827,-64.398048,26/06/2025,11:15,,,0:43,,
+Riviere aux Canards,Peyton/Matthieu,2025,riviere,,1,49.750914,-64.222752,27/06/2025,8:57,,,0:41,,
+Riviere aux Canards,Peyton/Matthieu,2025,riviere,,2,49.754466,-64.219527,27/06/2025,10:25,,,0:40,,
