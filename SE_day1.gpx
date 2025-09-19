@@ -1,0 +1,6194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 https://www.cluetrust.com/Schemas/gpxdata10.xsd" creator="COROS Wearables" version="1.1">
+ <metadata>
+  <link href="https://www.coros.com">
+   <text>COROS</text>
+  </link>
+  <time>2025-07-02T12:59:15Z</time>
+ </metadata>
+ <trk>
+  <name>Côte-Nord Hike</name>
+  <type>running</type>
+  <trkseg>
+   <trkpt lat="49.2243900" lon="-63.0499466">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:16Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>0.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243848" lon="-63.0499339">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:17Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>0.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243797" lon="-63.0499213">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:18Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>3.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243740" lon="-63.0499077">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:19Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>6.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243684" lon="-63.0498941">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:20Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>7.50</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243641" lon="-63.0498782">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:21Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>9.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243599" lon="-63.0498623">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:22Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>10.50</gpxdata:distance>
+     <gpxdata:speed>0.608</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243567" lon="-63.0498450">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:23Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>12.00</gpxdata:distance>
+     <gpxdata:speed>1.217</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243535" lon="-63.0498278">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:24Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>13.00</gpxdata:distance>
+     <gpxdata:speed>1.225</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243490" lon="-63.0498099">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:25Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>14.00</gpxdata:distance>
+     <gpxdata:speed>1.233</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243445" lon="-63.0497920">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:26Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>15.50</gpxdata:distance>
+     <gpxdata:speed>1.231</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243394" lon="-63.0497750">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:27Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>17.00</gpxdata:distance>
+     <gpxdata:speed>1.228</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243344" lon="-63.0497580">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:28Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>18.50</gpxdata:distance>
+     <gpxdata:speed>1.228</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243295" lon="-63.0497405">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:29Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>20.00</gpxdata:distance>
+     <gpxdata:speed>1.231</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243247" lon="-63.0497231">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:30Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>21.50</gpxdata:distance>
+     <gpxdata:speed>1.236</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243199" lon="-63.0497052">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:31Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>23.00</gpxdata:distance>
+     <gpxdata:speed>1.244</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243151" lon="-63.0496873">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:32Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>24.00</gpxdata:distance>
+     <gpxdata:speed>1.247</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243095" lon="-63.0496702">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:33Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>25.00</gpxdata:distance>
+     <gpxdata:speed>1.250</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243039" lon="-63.0496532">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:34Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>26.00</gpxdata:distance>
+     <gpxdata:speed>1.250</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242995" lon="-63.0496376">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:35Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>27.00</gpxdata:distance>
+     <gpxdata:speed>1.250</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242952" lon="-63.0496221">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:36Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>28.50</gpxdata:distance>
+     <gpxdata:speed>1.247</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242918" lon="-63.0496067">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:37Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>30.00</gpxdata:distance>
+     <gpxdata:speed>1.247</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242884" lon="-63.0495914">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:38Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>31.50</gpxdata:distance>
+     <gpxdata:speed>1.247</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242838" lon="-63.0495752">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:39Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>33.00</gpxdata:distance>
+     <gpxdata:speed>1.250</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242793" lon="-63.0495591">
+    <ele>12</ele>
+    <time>2025-07-02T12:59:40Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>34.00</gpxdata:distance>
+     <gpxdata:speed>1.256</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242742" lon="-63.0495426">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:41Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>35.00</gpxdata:distance>
+     <gpxdata:speed>1.264</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242692" lon="-63.0495261">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:42Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>36.50</gpxdata:distance>
+     <gpxdata:speed>1.269</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242641" lon="-63.0495091">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:43Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>38.00</gpxdata:distance>
+     <gpxdata:speed>1.275</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242590" lon="-63.0494921">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:44Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>39.00</gpxdata:distance>
+     <gpxdata:speed>1.272</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242554" lon="-63.0494759">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:45Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>40.00</gpxdata:distance>
+     <gpxdata:speed>1.269</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242518" lon="-63.0494598">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:46Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>41.50</gpxdata:distance>
+     <gpxdata:speed>1.267</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242495" lon="-63.0494436">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:47Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>43.00</gpxdata:distance>
+     <gpxdata:speed>1.267</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242472" lon="-63.0494275">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:48Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>44.00</gpxdata:distance>
+     <gpxdata:speed>1.258</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242449" lon="-63.0494122">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:49Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>45.00</gpxdata:distance>
+     <gpxdata:speed>1.250</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242426" lon="-63.0493970">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:50Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>46.00</gpxdata:distance>
+     <gpxdata:speed>1.244</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242395" lon="-63.0493835">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:51Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>47.00</gpxdata:distance>
+     <gpxdata:speed>1.242</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242364" lon="-63.0493701">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:52Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>48.00</gpxdata:distance>
+     <gpxdata:speed>1.242</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242332" lon="-63.0493575">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:53Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>49.00</gpxdata:distance>
+     <gpxdata:speed>1.242</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242300" lon="-63.0493450">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:54Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>50.00</gpxdata:distance>
+     <gpxdata:speed>1.242</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242265" lon="-63.0493320">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:55Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>51.00</gpxdata:distance>
+     <gpxdata:speed>1.242</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242231" lon="-63.0493190">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:56Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>52.00</gpxdata:distance>
+     <gpxdata:speed>1.225</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242198" lon="-63.0493057">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:57Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>53.00</gpxdata:distance>
+     <gpxdata:speed>1.211</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242165" lon="-63.0492924">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:58Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>54.00</gpxdata:distance>
+     <gpxdata:speed>1.211</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242133" lon="-63.0492798">
+    <ele>11</ele>
+    <time>2025-07-02T12:59:59Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>55.00</gpxdata:distance>
+     <gpxdata:speed>1.211</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242101" lon="-63.0492673">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:00Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>55.50</gpxdata:distance>
+     <gpxdata:speed>1.175</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242057" lon="-63.0492564">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:01Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>56.00</gpxdata:distance>
+     <gpxdata:speed>1.142</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242014" lon="-63.0492455">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:02Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>56.00</gpxdata:distance>
+     <gpxdata:speed>1.142</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241899" lon="-63.0492208">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:32Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>56.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241842" lon="-63.0492057">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:33Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>56.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241786" lon="-63.0491907">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:34Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>59.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241790" lon="-63.0491812">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:35Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>62.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241794" lon="-63.0491718">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:36Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>63.50</gpxdata:distance>
+     <gpxdata:speed>0.531</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241823" lon="-63.0491600">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:37Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>65.00</gpxdata:distance>
+     <gpxdata:speed>1.064</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241852" lon="-63.0491482">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:38Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>66.50</gpxdata:distance>
+     <gpxdata:speed>1.097</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241879" lon="-63.0491322">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:39Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>68.00</gpxdata:distance>
+     <gpxdata:speed>1.131</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241907" lon="-63.0491163">
+    <ele>12</ele>
+    <time>2025-07-02T13:00:40Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>69.00</gpxdata:distance>
+     <gpxdata:speed>1.147</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241938" lon="-63.0490988">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:41Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>70.00</gpxdata:distance>
+     <gpxdata:speed>1.167</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241969" lon="-63.0490814">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:42Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>71.50</gpxdata:distance>
+     <gpxdata:speed>1.169</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241998" lon="-63.0490645">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:43Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>73.00</gpxdata:distance>
+     <gpxdata:speed>1.172</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242027" lon="-63.0490477">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:44Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>74.00</gpxdata:distance>
+     <gpxdata:speed>1.175</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242046" lon="-63.0490302">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:45Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>75.00</gpxdata:distance>
+     <gpxdata:speed>1.181</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242065" lon="-63.0490128">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:46Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>76.50</gpxdata:distance>
+     <gpxdata:speed>1.186</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242073" lon="-63.0489950">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:47Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>78.00</gpxdata:distance>
+     <gpxdata:speed>1.192</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242081" lon="-63.0489773">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:48Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>79.00</gpxdata:distance>
+     <gpxdata:speed>1.194</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242073" lon="-63.0489599">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:49Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>80.00</gpxdata:distance>
+     <gpxdata:speed>1.197</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242065" lon="-63.0489425">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:50Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>81.50</gpxdata:distance>
+     <gpxdata:speed>1.197</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242050" lon="-63.0489257">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:51Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>83.00</gpxdata:distance>
+     <gpxdata:speed>1.197</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242036" lon="-63.0489089">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:52Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>84.00</gpxdata:distance>
+     <gpxdata:speed>1.194</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242021" lon="-63.0488917">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:53Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>85.00</gpxdata:distance>
+     <gpxdata:speed>1.192</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242006" lon="-63.0488745">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:54Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>86.50</gpxdata:distance>
+     <gpxdata:speed>1.194</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241982" lon="-63.0488578">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:55Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>88.00</gpxdata:distance>
+     <gpxdata:speed>1.197</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241959" lon="-63.0488411">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:56Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>89.00</gpxdata:distance>
+     <gpxdata:speed>1.197</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241927" lon="-63.0488246">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:57Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>90.00</gpxdata:distance>
+     <gpxdata:speed>1.200</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241895" lon="-63.0488082">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:58Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>91.50</gpxdata:distance>
+     <gpxdata:speed>1.203</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241859" lon="-63.0487909">
+    <ele>11</ele>
+    <time>2025-07-02T13:00:59Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>93.00</gpxdata:distance>
+     <gpxdata:speed>1.206</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241824" lon="-63.0487736">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:00Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>94.50</gpxdata:distance>
+     <gpxdata:speed>1.203</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241795" lon="-63.0487562">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:01Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>96.00</gpxdata:distance>
+     <gpxdata:speed>1.203</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241767" lon="-63.0487388">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:02Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>97.00</gpxdata:distance>
+     <gpxdata:speed>1.200</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241748" lon="-63.0487214">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:03Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>98.00</gpxdata:distance>
+     <gpxdata:speed>1.200</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241729" lon="-63.0487041">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:04Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>99.50</gpxdata:distance>
+     <gpxdata:speed>1.197</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241718" lon="-63.0486864">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:05Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>101.00</gpxdata:distance>
+     <gpxdata:speed>1.197</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241707" lon="-63.0486688">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:06Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>102.00</gpxdata:distance>
+     <gpxdata:speed>1.197</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241687" lon="-63.0486522">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:07Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>103.00</gpxdata:distance>
+     <gpxdata:speed>1.197</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241668" lon="-63.0486356">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:08Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>104.00</gpxdata:distance>
+     <gpxdata:speed>1.197</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241642" lon="-63.0486200">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:09Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>105.00</gpxdata:distance>
+     <gpxdata:speed>1.197</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241617" lon="-63.0486045">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:10Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>106.00</gpxdata:distance>
+     <gpxdata:speed>1.194</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241594" lon="-63.0485898">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:11Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>107.00</gpxdata:distance>
+     <gpxdata:speed>1.192</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241572" lon="-63.0485751">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:12Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>108.00</gpxdata:distance>
+     <gpxdata:speed>1.192</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241545" lon="-63.0485619">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:13Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>109.00</gpxdata:distance>
+     <gpxdata:speed>1.192</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241519" lon="-63.0485487">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:14Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>109.00</gpxdata:distance>
+     <gpxdata:speed>1.181</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241484" lon="-63.0485356">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:23Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>109.00</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241451" lon="-63.0485310">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:24Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>110.50</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241418" lon="-63.0485264">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:25Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>112.00</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241365" lon="-63.0485273">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:26Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>113.00</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241313" lon="-63.0485283">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:27Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>114.00</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241240" lon="-63.0485330">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:28Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>114.50</gpxdata:distance>
+     <gpxdata:speed>1.097</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241168" lon="-63.0485377">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:29Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>115.00</gpxdata:distance>
+     <gpxdata:speed>1.081</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241090" lon="-63.0485415">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:30Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>116.00</gpxdata:distance>
+     <gpxdata:speed>1.081</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241012" lon="-63.0485453">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:31Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>117.00</gpxdata:distance>
+     <gpxdata:speed>1.081</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240937" lon="-63.0485468">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:32Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>117.00</gpxdata:distance>
+     <gpxdata:speed>1.069</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240862" lon="-63.0485484">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:33Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>117.00</gpxdata:distance>
+     <gpxdata:speed>1.058</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240825" lon="-63.0485475">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:34Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>117.00</gpxdata:distance>
+     <gpxdata:speed>1.058</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240789" lon="-63.0485466">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:35Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>117.00</gpxdata:distance>
+     <gpxdata:speed>1.058</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240746" lon="-63.0485413">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:36Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>118.50</gpxdata:distance>
+     <gpxdata:speed>1.058</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240703" lon="-63.0485361">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:37Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>120.00</gpxdata:distance>
+     <gpxdata:speed>1.058</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240660" lon="-63.0485282">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:38Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>121.00</gpxdata:distance>
+     <gpxdata:speed>1.044</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240617" lon="-63.0485204">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:39Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>122.00</gpxdata:distance>
+     <gpxdata:speed>1.033</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240571" lon="-63.0485123">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:40Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>122.00</gpxdata:distance>
+     <gpxdata:speed>1.033</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240526" lon="-63.0485043">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:41Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>122.00</gpxdata:distance>
+     <gpxdata:speed>1.033</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240491" lon="-63.0484964">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:42Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>123.00</gpxdata:distance>
+     <gpxdata:speed>1.075</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240457" lon="-63.0484885">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:43Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>124.00</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240427" lon="-63.0484802">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:44Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>124.50</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240398" lon="-63.0484720">
+    <ele>11</ele>
+    <time>2025-07-02T13:01:45Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>125.00</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240390" lon="-63.0484633">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:06Z</time>
+    <extensions>
+     <gpxdata:hr>80</gpxdata:hr>
+     <gpxdata:distance>125.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240393" lon="-63.0484563">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:07Z</time>
+    <extensions>
+     <gpxdata:hr>80</gpxdata:hr>
+     <gpxdata:distance>125.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240396" lon="-63.0484493">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:08Z</time>
+    <extensions>
+     <gpxdata:hr>80</gpxdata:hr>
+     <gpxdata:distance>127.50</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240425" lon="-63.0484397">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:09Z</time>
+    <extensions>
+     <gpxdata:hr>80</gpxdata:hr>
+     <gpxdata:distance>130.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240454" lon="-63.0484302">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:10Z</time>
+    <extensions>
+     <gpxdata:hr>80</gpxdata:hr>
+     <gpxdata:distance>131.00</gpxdata:distance>
+     <gpxdata:speed>0.419</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240502" lon="-63.0484159">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:11Z</time>
+    <extensions>
+     <gpxdata:hr>80</gpxdata:hr>
+     <gpxdata:distance>132.00</gpxdata:distance>
+     <gpxdata:speed>0.842</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240551" lon="-63.0484017">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:12Z</time>
+    <extensions>
+     <gpxdata:hr>80</gpxdata:hr>
+     <gpxdata:distance>133.50</gpxdata:distance>
+     <gpxdata:speed>0.914</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240583" lon="-63.0483842">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:13Z</time>
+    <extensions>
+     <gpxdata:hr>80</gpxdata:hr>
+     <gpxdata:distance>135.00</gpxdata:distance>
+     <gpxdata:speed>0.986</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240615" lon="-63.0483667">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:14Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>136.00</gpxdata:distance>
+     <gpxdata:speed>1.036</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240615" lon="-63.0483478">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:15Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>137.00</gpxdata:distance>
+     <gpxdata:speed>1.089</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240616" lon="-63.0483289">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:16Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>138.50</gpxdata:distance>
+     <gpxdata:speed>1.111</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240582" lon="-63.0483105">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:17Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>140.00</gpxdata:distance>
+     <gpxdata:speed>1.133</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240549" lon="-63.0482922">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:18Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>141.50</gpxdata:distance>
+     <gpxdata:speed>1.142</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240496" lon="-63.0482736">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:19Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>143.00</gpxdata:distance>
+     <gpxdata:speed>1.150</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240444" lon="-63.0482551">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:20Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>144.00</gpxdata:distance>
+     <gpxdata:speed>1.144</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240384" lon="-63.0482381">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:21Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>145.00</gpxdata:distance>
+     <gpxdata:speed>1.142</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240325" lon="-63.0482212">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:22Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>146.50</gpxdata:distance>
+     <gpxdata:speed>1.131</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240275" lon="-63.0482060">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:23Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>148.00</gpxdata:distance>
+     <gpxdata:speed>1.122</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240225" lon="-63.0481908">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:24Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>149.00</gpxdata:distance>
+     <gpxdata:speed>1.119</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240188" lon="-63.0481756">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:25Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>150.00</gpxdata:distance>
+     <gpxdata:speed>1.119</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240151" lon="-63.0481604">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:26Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>151.50</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240112" lon="-63.0481454">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:27Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>153.00</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240073" lon="-63.0481304">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:28Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>153.50</gpxdata:distance>
+     <gpxdata:speed>1.111</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240032" lon="-63.0481167">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:29Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>154.00</gpxdata:distance>
+     <gpxdata:speed>1.108</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239992" lon="-63.0481030">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:30Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>155.00</gpxdata:distance>
+     <gpxdata:speed>1.100</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239948" lon="-63.0480916">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:31Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>156.00</gpxdata:distance>
+     <gpxdata:speed>1.094</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239904" lon="-63.0480802">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:32Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>157.50</gpxdata:distance>
+     <gpxdata:speed>1.086</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239856" lon="-63.0480679">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:33Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>159.00</gpxdata:distance>
+     <gpxdata:speed>1.081</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239809" lon="-63.0480556">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:34Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>160.00</gpxdata:distance>
+     <gpxdata:speed>1.075</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239757" lon="-63.0480435">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:35Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>161.00</gpxdata:distance>
+     <gpxdata:speed>1.069</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239706" lon="-63.0480315">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:36Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>161.50</gpxdata:distance>
+     <gpxdata:speed>1.061</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239656" lon="-63.0480197">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:37Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>162.00</gpxdata:distance>
+     <gpxdata:speed>1.053</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239607" lon="-63.0480080">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:38Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>163.50</gpxdata:distance>
+     <gpxdata:speed>1.047</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239562" lon="-63.0479960">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:39Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>165.00</gpxdata:distance>
+     <gpxdata:speed>1.042</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239518" lon="-63.0479840">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:40Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>165.50</gpxdata:distance>
+     <gpxdata:speed>1.042</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239491" lon="-63.0479715">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:41Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>166.00</gpxdata:distance>
+     <gpxdata:speed>1.042</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239465" lon="-63.0479591">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:42Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>167.00</gpxdata:distance>
+     <gpxdata:speed>1.042</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239461" lon="-63.0479464">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:43Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>168.00</gpxdata:distance>
+     <gpxdata:speed>1.042</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239458" lon="-63.0479338">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:44Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>169.00</gpxdata:distance>
+     <gpxdata:speed>1.028</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239459" lon="-63.0479202">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:45Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>170.00</gpxdata:distance>
+     <gpxdata:speed>1.017</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239461" lon="-63.0479067">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:46Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>171.00</gpxdata:distance>
+     <gpxdata:speed>1.017</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239461" lon="-63.0478924">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:47Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>172.00</gpxdata:distance>
+     <gpxdata:speed>1.017</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239461" lon="-63.0478782">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:48Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>173.50</gpxdata:distance>
+     <gpxdata:speed>0.992</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239441" lon="-63.0478639">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:49Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>175.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239421" lon="-63.0478497">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:50Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>176.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239380" lon="-63.0478368">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:51Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>177.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239339" lon="-63.0478240">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:52Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>177.50</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239295" lon="-63.0478122">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:53Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>178.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239251" lon="-63.0478004">
+    <ele>11</ele>
+    <time>2025-07-02T13:02:54Z</time>
+    <extensions>
+     <gpxdata:hr>93</gpxdata:hr>
+     <gpxdata:distance>179.00</gpxdata:distance>
+     <gpxdata:speed>0.947</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239198" lon="-63.0477893">
+    <ele>12</ele>
+    <time>2025-07-02T13:02:55Z</time>
+    <extensions>
+     <gpxdata:hr>93</gpxdata:hr>
+     <gpxdata:distance>180.00</gpxdata:distance>
+     <gpxdata:speed>0.931</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239146" lon="-63.0477783">
+    <ele>12</ele>
+    <time>2025-07-02T13:02:56Z</time>
+    <extensions>
+     <gpxdata:hr>94</gpxdata:hr>
+     <gpxdata:distance>181.00</gpxdata:distance>
+     <gpxdata:speed>0.931</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239099" lon="-63.0477682">
+    <ele>12</ele>
+    <time>2025-07-02T13:02:57Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>182.00</gpxdata:distance>
+     <gpxdata:speed>0.931</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239053" lon="-63.0477581">
+    <ele>12</ele>
+    <time>2025-07-02T13:02:58Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>182.50</gpxdata:distance>
+     <gpxdata:speed>0.917</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239013" lon="-63.0477485">
+    <ele>12</ele>
+    <time>2025-07-02T13:02:59Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>183.00</gpxdata:distance>
+     <gpxdata:speed>0.906</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238973" lon="-63.0477390">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:00Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>184.00</gpxdata:distance>
+     <gpxdata:speed>0.906</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238949" lon="-63.0477294">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:01Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>185.00</gpxdata:distance>
+     <gpxdata:speed>0.906</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238926" lon="-63.0477199">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:02Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>186.00</gpxdata:distance>
+     <gpxdata:speed>0.906</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238919" lon="-63.0477084">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:03Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>187.00</gpxdata:distance>
+     <gpxdata:speed>0.906</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238912" lon="-63.0476969">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:04Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>188.00</gpxdata:distance>
+     <gpxdata:speed>0.892</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238918" lon="-63.0476845">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:05Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>189.00</gpxdata:distance>
+     <gpxdata:speed>0.881</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238924" lon="-63.0476722">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:06Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>189.50</gpxdata:distance>
+     <gpxdata:speed>0.881</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238942" lon="-63.0476603">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:07Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>190.00</gpxdata:distance>
+     <gpxdata:speed>0.881</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238960" lon="-63.0476485">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:08Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>191.00</gpxdata:distance>
+     <gpxdata:speed>0.864</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238993" lon="-63.0476390">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:09Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>192.00</gpxdata:distance>
+     <gpxdata:speed>0.847</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239027" lon="-63.0476295">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:10Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>192.00</gpxdata:distance>
+     <gpxdata:speed>0.847</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239089" lon="-63.0476208">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:29Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>192.00</gpxdata:distance>
+     <gpxdata:speed>1.197</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239103" lon="-63.0476245">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:30Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>193.50</gpxdata:distance>
+     <gpxdata:speed>1.142</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239117" lon="-63.0476283">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:31Z</time>
+    <extensions>
+     <gpxdata:hr>94</gpxdata:hr>
+     <gpxdata:distance>195.00</gpxdata:distance>
+     <gpxdata:speed>1.086</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239128" lon="-63.0476380">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:32Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>196.50</gpxdata:distance>
+     <gpxdata:speed>1.100</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239139" lon="-63.0476477">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:33Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>198.00</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239152" lon="-63.0476648">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:34Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>199.50</gpxdata:distance>
+     <gpxdata:speed>1.156</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239166" lon="-63.0476819">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:35Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>201.00</gpxdata:distance>
+     <gpxdata:speed>1.194</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239180" lon="-63.0477023">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:36Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>202.50</gpxdata:distance>
+     <gpxdata:speed>1.214</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239195" lon="-63.0477228">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:37Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>204.00</gpxdata:distance>
+     <gpxdata:speed>1.236</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239218" lon="-63.0477445">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:38Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>205.50</gpxdata:distance>
+     <gpxdata:speed>1.261</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239241" lon="-63.0477662">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:39Z</time>
+    <extensions>
+     <gpxdata:hr>97</gpxdata:hr>
+     <gpxdata:distance>207.00</gpxdata:distance>
+     <gpxdata:speed>1.289</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239284" lon="-63.0477884">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:40Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>208.50</gpxdata:distance>
+     <gpxdata:speed>1.317</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239328" lon="-63.0478106">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:41Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>210.00</gpxdata:distance>
+     <gpxdata:speed>1.347</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239389" lon="-63.0478297">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:42Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>211.50</gpxdata:distance>
+     <gpxdata:speed>1.369</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239450" lon="-63.0478489">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:43Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>213.00</gpxdata:distance>
+     <gpxdata:speed>1.394</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239513" lon="-63.0478669">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:44Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>214.50</gpxdata:distance>
+     <gpxdata:speed>1.414</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239576" lon="-63.0478850">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:45Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>216.00</gpxdata:distance>
+     <gpxdata:speed>1.433</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239623" lon="-63.0479039">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:46Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>217.50</gpxdata:distance>
+     <gpxdata:speed>1.442</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239670" lon="-63.0479229">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:47Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>219.00</gpxdata:distance>
+     <gpxdata:speed>1.450</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239712" lon="-63.0479435">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:48Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>220.50</gpxdata:distance>
+     <gpxdata:speed>1.458</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239755" lon="-63.0479642">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:49Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>222.00</gpxdata:distance>
+     <gpxdata:speed>1.467</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239797" lon="-63.0479850">
+    <ele>12</ele>
+    <time>2025-07-02T13:03:50Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>223.50</gpxdata:distance>
+     <gpxdata:speed>1.472</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239839" lon="-63.0480059">
+    <ele>11</ele>
+    <time>2025-07-02T13:03:51Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>225.00</gpxdata:distance>
+     <gpxdata:speed>1.478</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239879" lon="-63.0480266">
+    <ele>11</ele>
+    <time>2025-07-02T13:03:52Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>227.00</gpxdata:distance>
+     <gpxdata:speed>1.481</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239919" lon="-63.0480473">
+    <ele>11</ele>
+    <time>2025-07-02T13:03:53Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>229.00</gpxdata:distance>
+     <gpxdata:speed>1.486</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239960" lon="-63.0480684">
+    <ele>11</ele>
+    <time>2025-07-02T13:03:54Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>230.50</gpxdata:distance>
+     <gpxdata:speed>1.483</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240002" lon="-63.0480896">
+    <ele>11</ele>
+    <time>2025-07-02T13:03:55Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>232.00</gpxdata:distance>
+     <gpxdata:speed>1.483</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240047" lon="-63.0481102">
+    <ele>11</ele>
+    <time>2025-07-02T13:03:56Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>233.50</gpxdata:distance>
+     <gpxdata:speed>1.475</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240093" lon="-63.0481309">
+    <ele>11</ele>
+    <time>2025-07-02T13:03:57Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>235.00</gpxdata:distance>
+     <gpxdata:speed>1.469</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240150" lon="-63.0481507">
+    <ele>11</ele>
+    <time>2025-07-02T13:03:58Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>236.50</gpxdata:distance>
+     <gpxdata:speed>1.464</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240208" lon="-63.0481705">
+    <ele>11</ele>
+    <time>2025-07-02T13:03:59Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>238.00</gpxdata:distance>
+     <gpxdata:speed>1.461</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240268" lon="-63.0481894">
+    <ele>11</ele>
+    <time>2025-07-02T13:04:00Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>239.50</gpxdata:distance>
+     <gpxdata:speed>1.461</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240329" lon="-63.0482084">
+    <ele>11</ele>
+    <time>2025-07-02T13:04:01Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>241.00</gpxdata:distance>
+     <gpxdata:speed>1.461</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240382" lon="-63.0482264">
+    <ele>11</ele>
+    <time>2025-07-02T13:04:02Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>242.00</gpxdata:distance>
+     <gpxdata:speed>1.461</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240435" lon="-63.0482444">
+    <ele>11</ele>
+    <time>2025-07-02T13:04:03Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>243.00</gpxdata:distance>
+     <gpxdata:speed>1.461</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240471" lon="-63.0482622">
+    <ele>11</ele>
+    <time>2025-07-02T13:04:04Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>244.50</gpxdata:distance>
+     <gpxdata:speed>1.458</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240508" lon="-63.0482800">
+    <ele>11</ele>
+    <time>2025-07-02T13:04:05Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>246.00</gpxdata:distance>
+     <gpxdata:speed>1.458</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240524" lon="-63.0482972">
+    <ele>11</ele>
+    <time>2025-07-02T13:04:06Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>247.00</gpxdata:distance>
+     <gpxdata:speed>1.458</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240540" lon="-63.0483144">
+    <ele>11</ele>
+    <time>2025-07-02T13:04:07Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>248.00</gpxdata:distance>
+     <gpxdata:speed>1.458</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240543" lon="-63.0483291">
+    <ele>11</ele>
+    <time>2025-07-02T13:04:08Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>248.00</gpxdata:distance>
+     <gpxdata:speed>1.458</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240546" lon="-63.0483439">
+    <ele>11</ele>
+    <time>2025-07-02T13:04:09Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>248.00</gpxdata:distance>
+     <gpxdata:speed>1.458</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240571" lon="-63.0483407">
+    <ele>12</ele>
+    <time>2025-07-02T13:14:50Z</time>
+    <extensions>
+     <gpxdata:hr>60</gpxdata:hr>
+     <gpxdata:distance>248.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240575" lon="-63.0483321">
+    <ele>12</ele>
+    <time>2025-07-02T13:14:51Z</time>
+    <extensions>
+     <gpxdata:hr>59</gpxdata:hr>
+     <gpxdata:distance>248.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240579" lon="-63.0483235">
+    <ele>12</ele>
+    <time>2025-07-02T13:14:52Z</time>
+    <extensions>
+     <gpxdata:hr>59</gpxdata:hr>
+     <gpxdata:distance>248.50</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240583" lon="-63.0483149">
+    <ele>12</ele>
+    <time>2025-07-02T13:14:53Z</time>
+    <extensions>
+     <gpxdata:hr>59</gpxdata:hr>
+     <gpxdata:distance>249.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239000" lon="-63.0476349">
+    <ele>9</ele>
+    <time>2025-07-02T14:02:46Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>249.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238967" lon="-63.0476294">
+    <ele>9</ele>
+    <time>2025-07-02T14:02:47Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>249.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238935" lon="-63.0476240">
+    <ele>9</ele>
+    <time>2025-07-02T14:02:48Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>249.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238898" lon="-63.0476165">
+    <ele>9</ele>
+    <time>2025-07-02T14:02:49Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>251.50</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238861" lon="-63.0476091">
+    <ele>9</ele>
+    <time>2025-07-02T14:02:50Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>254.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238810" lon="-63.0475977">
+    <ele>9</ele>
+    <time>2025-07-02T14:02:51Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>255.50</gpxdata:distance>
+     <gpxdata:speed>0.508</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238760" lon="-63.0475863">
+    <ele>9</ele>
+    <time>2025-07-02T14:02:52Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>257.00</gpxdata:distance>
+     <gpxdata:speed>1.019</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238703" lon="-63.0475732">
+    <ele>9</ele>
+    <time>2025-07-02T14:02:53Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>258.00</gpxdata:distance>
+     <gpxdata:speed>1.017</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238646" lon="-63.0475601">
+    <ele>9</ele>
+    <time>2025-07-02T14:02:54Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>259.00</gpxdata:distance>
+     <gpxdata:speed>1.017</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238575" lon="-63.0475482">
+    <ele>9</ele>
+    <time>2025-07-02T14:02:55Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>260.50</gpxdata:distance>
+     <gpxdata:speed>1.014</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238504" lon="-63.0475363">
+    <ele>9</ele>
+    <time>2025-07-02T14:02:56Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>262.00</gpxdata:distance>
+     <gpxdata:speed>1.014</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238425" lon="-63.0475255">
+    <ele>8</ele>
+    <time>2025-07-02T14:02:57Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>262.50</gpxdata:distance>
+     <gpxdata:speed>1.003</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238346" lon="-63.0475147">
+    <ele>8</ele>
+    <time>2025-07-02T14:02:58Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>263.00</gpxdata:distance>
+     <gpxdata:speed>0.994</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238279" lon="-63.0475056">
+    <ele>8</ele>
+    <time>2025-07-02T14:02:59Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>264.00</gpxdata:distance>
+     <gpxdata:speed>0.981</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238212" lon="-63.0474966">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:00Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>265.00</gpxdata:distance>
+     <gpxdata:speed>0.969</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238156" lon="-63.0474871">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:01Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>266.00</gpxdata:distance>
+     <gpxdata:speed>0.969</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238100" lon="-63.0474777">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:02Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>267.00</gpxdata:distance>
+     <gpxdata:speed>0.972</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238055" lon="-63.0474656">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:03Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>268.50</gpxdata:distance>
+     <gpxdata:speed>0.978</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238010" lon="-63.0474536">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:04Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>270.00</gpxdata:distance>
+     <gpxdata:speed>0.983</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237964" lon="-63.0474397">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:05Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>271.00</gpxdata:distance>
+     <gpxdata:speed>0.989</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237919" lon="-63.0474259">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:06Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>272.00</gpxdata:distance>
+     <gpxdata:speed>0.997</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237862" lon="-63.0474115">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:07Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>273.00</gpxdata:distance>
+     <gpxdata:speed>1.006</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237805" lon="-63.0473971">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:08Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>274.00</gpxdata:distance>
+     <gpxdata:speed>1.014</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237748" lon="-63.0473830">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:09Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>275.50</gpxdata:distance>
+     <gpxdata:speed>1.019</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237691" lon="-63.0473690">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:10Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>277.00</gpxdata:distance>
+     <gpxdata:speed>1.025</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237634" lon="-63.0473553">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:11Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>278.00</gpxdata:distance>
+     <gpxdata:speed>1.031</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237578" lon="-63.0473417">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:12Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>279.00</gpxdata:distance>
+     <gpxdata:speed>1.036</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237525" lon="-63.0473283">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:13Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>280.50</gpxdata:distance>
+     <gpxdata:speed>1.039</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237472" lon="-63.0473149">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:14Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>282.00</gpxdata:distance>
+     <gpxdata:speed>1.044</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237420" lon="-63.0472993">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:15Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>283.00</gpxdata:distance>
+     <gpxdata:speed>1.050</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237368" lon="-63.0472837">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:16Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>284.00</gpxdata:distance>
+     <gpxdata:speed>1.058</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237309" lon="-63.0472688">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:17Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>285.00</gpxdata:distance>
+     <gpxdata:speed>1.069</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237251" lon="-63.0472540">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:18Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>286.00</gpxdata:distance>
+     <gpxdata:speed>1.081</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237190" lon="-63.0472407">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:19Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>287.50</gpxdata:distance>
+     <gpxdata:speed>1.092</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237130" lon="-63.0472274">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:20Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>289.00</gpxdata:distance>
+     <gpxdata:speed>1.106</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237068" lon="-63.0472146">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:21Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>290.00</gpxdata:distance>
+     <gpxdata:speed>1.106</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237006" lon="-63.0472018">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:22Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>291.00</gpxdata:distance>
+     <gpxdata:speed>1.106</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236940" lon="-63.0471893">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:23Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>292.50</gpxdata:distance>
+     <gpxdata:speed>1.106</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236875" lon="-63.0471769">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:24Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>294.00</gpxdata:distance>
+     <gpxdata:speed>1.106</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236809" lon="-63.0471630">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:25Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>295.00</gpxdata:distance>
+     <gpxdata:speed>1.111</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236743" lon="-63.0471491">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:26Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>296.00</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236684" lon="-63.0471350">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:27Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>297.50</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236625" lon="-63.0471209">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:28Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>299.00</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236568" lon="-63.0471068">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:29Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>300.00</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236512" lon="-63.0470927">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:30Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>301.00</gpxdata:distance>
+     <gpxdata:speed>1.117</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236455" lon="-63.0470789">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:31Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>302.00</gpxdata:distance>
+     <gpxdata:speed>1.119</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236399" lon="-63.0470651">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:32Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>303.00</gpxdata:distance>
+     <gpxdata:speed>1.125</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236341" lon="-63.0470508">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:33Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>304.50</gpxdata:distance>
+     <gpxdata:speed>1.125</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236284" lon="-63.0470366">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:34Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>306.00</gpxdata:distance>
+     <gpxdata:speed>1.125</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236227" lon="-63.0470220">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:35Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>307.00</gpxdata:distance>
+     <gpxdata:speed>1.122</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236171" lon="-63.0470075">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:36Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>308.00</gpxdata:distance>
+     <gpxdata:speed>1.122</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236108" lon="-63.0469936">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:37Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>309.50</gpxdata:distance>
+     <gpxdata:speed>1.122</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236045" lon="-63.0469798">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:38Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>311.00</gpxdata:distance>
+     <gpxdata:speed>1.122</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235962" lon="-63.0469660">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:39Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>312.50</gpxdata:distance>
+     <gpxdata:speed>1.122</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235880" lon="-63.0469523">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:40Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>314.00</gpxdata:distance>
+     <gpxdata:speed>1.122</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235797" lon="-63.0469395">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:41Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>315.00</gpxdata:distance>
+     <gpxdata:speed>1.119</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235714" lon="-63.0469267">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:42Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>316.00</gpxdata:distance>
+     <gpxdata:speed>1.119</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235638" lon="-63.0469131">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:43Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>317.50</gpxdata:distance>
+     <gpxdata:speed>1.119</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235562" lon="-63.0468996">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:44Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>319.00</gpxdata:distance>
+     <gpxdata:speed>1.119</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235509" lon="-63.0468848">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:45Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>320.00</gpxdata:distance>
+     <gpxdata:speed>1.125</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235456" lon="-63.0468701">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:46Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>321.00</gpxdata:distance>
+     <gpxdata:speed>1.133</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235416" lon="-63.0468554">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:47Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>322.00</gpxdata:distance>
+     <gpxdata:speed>1.133</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235377" lon="-63.0468408">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:48Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>323.00</gpxdata:distance>
+     <gpxdata:speed>1.133</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235343" lon="-63.0468265">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:49Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>324.00</gpxdata:distance>
+     <gpxdata:speed>1.133</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235309" lon="-63.0468123">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:50Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>325.00</gpxdata:distance>
+     <gpxdata:speed>1.133</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235278" lon="-63.0467981">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:51Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>326.50</gpxdata:distance>
+     <gpxdata:speed>1.133</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235247" lon="-63.0467839">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:52Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>328.00</gpxdata:distance>
+     <gpxdata:speed>1.136</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235208" lon="-63.0467683">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:53Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>329.50</gpxdata:distance>
+     <gpxdata:speed>1.136</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235169" lon="-63.0467527">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:54Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>331.00</gpxdata:distance>
+     <gpxdata:speed>1.136</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235127" lon="-63.0467365">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:55Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>332.00</gpxdata:distance>
+     <gpxdata:speed>1.131</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235085" lon="-63.0467203">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:56Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>333.00</gpxdata:distance>
+     <gpxdata:speed>1.125</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235045" lon="-63.0467055">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:57Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>334.00</gpxdata:distance>
+     <gpxdata:speed>1.125</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235005" lon="-63.0466907">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:58Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>335.00</gpxdata:distance>
+     <gpxdata:speed>1.125</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234956" lon="-63.0466765">
+    <ele>8</ele>
+    <time>2025-07-02T14:03:59Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>336.00</gpxdata:distance>
+     <gpxdata:speed>1.125</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234907" lon="-63.0466624">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:00Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>337.00</gpxdata:distance>
+     <gpxdata:speed>1.125</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234850" lon="-63.0466483">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:01Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>338.50</gpxdata:distance>
+     <gpxdata:speed>1.119</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234794" lon="-63.0466342">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:02Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>340.00</gpxdata:distance>
+     <gpxdata:speed>1.114</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234734" lon="-63.0466191">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:03Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>341.50</gpxdata:distance>
+     <gpxdata:speed>1.114</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234674" lon="-63.0466041">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:04Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>343.00</gpxdata:distance>
+     <gpxdata:speed>1.114</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234611" lon="-63.0465886">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:05Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>344.50</gpxdata:distance>
+     <gpxdata:speed>1.122</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234549" lon="-63.0465731">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:06Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>346.00</gpxdata:distance>
+     <gpxdata:speed>1.131</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234494" lon="-63.0465566">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:07Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>347.00</gpxdata:distance>
+     <gpxdata:speed>1.131</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234440" lon="-63.0465402">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:08Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>348.00</gpxdata:distance>
+     <gpxdata:speed>1.131</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234396" lon="-63.0465231">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:09Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>349.50</gpxdata:distance>
+     <gpxdata:speed>1.131</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234352" lon="-63.0465060">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:10Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>351.00</gpxdata:distance>
+     <gpxdata:speed>1.131</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234308" lon="-63.0464884">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:11Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>352.50</gpxdata:distance>
+     <gpxdata:speed>1.144</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234265" lon="-63.0464708">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:12Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>354.00</gpxdata:distance>
+     <gpxdata:speed>1.161</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234228" lon="-63.0464526">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:13Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>355.00</gpxdata:distance>
+     <gpxdata:speed>1.161</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234192" lon="-63.0464344">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:14Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>356.00</gpxdata:distance>
+     <gpxdata:speed>1.161</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234162" lon="-63.0464163">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:15Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>357.50</gpxdata:distance>
+     <gpxdata:speed>1.178</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234133" lon="-63.0463983">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:16Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>359.00</gpxdata:distance>
+     <gpxdata:speed>1.194</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234095" lon="-63.0463805">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:17Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>360.50</gpxdata:distance>
+     <gpxdata:speed>1.194</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234057" lon="-63.0463628">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:18Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>362.00</gpxdata:distance>
+     <gpxdata:speed>1.194</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234012" lon="-63.0463455">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:19Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>363.50</gpxdata:distance>
+     <gpxdata:speed>1.194</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233968" lon="-63.0463283">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:20Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>365.00</gpxdata:distance>
+     <gpxdata:speed>1.194</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233910" lon="-63.0463104">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:21Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>366.00</gpxdata:distance>
+     <gpxdata:speed>1.206</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233853" lon="-63.0462925">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:22Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>367.00</gpxdata:distance>
+     <gpxdata:speed>1.219</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233794" lon="-63.0462755">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:23Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>368.50</gpxdata:distance>
+     <gpxdata:speed>1.219</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233736" lon="-63.0462585">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:24Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>370.00</gpxdata:distance>
+     <gpxdata:speed>1.219</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233683" lon="-63.0462421">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:25Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>371.50</gpxdata:distance>
+     <gpxdata:speed>1.233</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233631" lon="-63.0462257">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:26Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>373.00</gpxdata:distance>
+     <gpxdata:speed>1.247</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233576" lon="-63.0462099">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:27Z</time>
+    <extensions>
+     <gpxdata:hr>93</gpxdata:hr>
+     <gpxdata:distance>374.00</gpxdata:distance>
+     <gpxdata:speed>1.247</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233522" lon="-63.0461941">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:28Z</time>
+    <extensions>
+     <gpxdata:hr>93</gpxdata:hr>
+     <gpxdata:distance>375.00</gpxdata:distance>
+     <gpxdata:speed>1.247</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233462" lon="-63.0461791">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:29Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>376.50</gpxdata:distance>
+     <gpxdata:speed>1.247</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233402" lon="-63.0461642">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:30Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>378.00</gpxdata:distance>
+     <gpxdata:speed>1.247</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233344" lon="-63.0461479">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:31Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>379.00</gpxdata:distance>
+     <gpxdata:speed>1.256</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233286" lon="-63.0461316">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:32Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>380.00</gpxdata:distance>
+     <gpxdata:speed>1.267</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233236" lon="-63.0461150">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:33Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>381.50</gpxdata:distance>
+     <gpxdata:speed>1.267</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233187" lon="-63.0460985">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:34Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>383.00</gpxdata:distance>
+     <gpxdata:speed>1.267</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233146" lon="-63.0460819">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:35Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>384.00</gpxdata:distance>
+     <gpxdata:speed>1.272</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233106" lon="-63.0460654">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:36Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>385.00</gpxdata:distance>
+     <gpxdata:speed>1.278</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233075" lon="-63.0460497">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:37Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>386.50</gpxdata:distance>
+     <gpxdata:speed>1.278</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233044" lon="-63.0460340">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:38Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>388.00</gpxdata:distance>
+     <gpxdata:speed>1.278</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233008" lon="-63.0460181">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:39Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>389.50</gpxdata:distance>
+     <gpxdata:speed>1.278</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232973" lon="-63.0460023">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:40Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>391.00</gpxdata:distance>
+     <gpxdata:speed>1.278</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232924" lon="-63.0459860">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:41Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>392.00</gpxdata:distance>
+     <gpxdata:speed>1.272</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232876" lon="-63.0459697">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:42Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>393.00</gpxdata:distance>
+     <gpxdata:speed>1.269</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232831" lon="-63.0459541">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:43Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>394.00</gpxdata:distance>
+     <gpxdata:speed>1.269</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232786" lon="-63.0459385">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:44Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>395.00</gpxdata:distance>
+     <gpxdata:speed>1.269</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232742" lon="-63.0459230">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:45Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>396.00</gpxdata:distance>
+     <gpxdata:speed>1.258</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232699" lon="-63.0459076">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:46Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>397.00</gpxdata:distance>
+     <gpxdata:speed>1.250</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232659" lon="-63.0458936">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:47Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>398.50</gpxdata:distance>
+     <gpxdata:speed>1.250</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232620" lon="-63.0458796">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:48Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>400.00</gpxdata:distance>
+     <gpxdata:speed>1.250</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232584" lon="-63.0458652">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:49Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>401.50</gpxdata:distance>
+     <gpxdata:speed>1.250</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232548" lon="-63.0458508">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:50Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>403.00</gpxdata:distance>
+     <gpxdata:speed>1.250</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232513" lon="-63.0458348">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:51Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>404.00</gpxdata:distance>
+     <gpxdata:speed>1.233</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232479" lon="-63.0458189">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:52Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>405.00</gpxdata:distance>
+     <gpxdata:speed>1.219</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232441" lon="-63.0458023">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:53Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>406.50</gpxdata:distance>
+     <gpxdata:speed>1.219</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232403" lon="-63.0457858">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:54Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>408.00</gpxdata:distance>
+     <gpxdata:speed>1.219</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232374" lon="-63.0457687">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:55Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>409.00</gpxdata:distance>
+     <gpxdata:speed>1.208</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232346" lon="-63.0457516">
+    <ele>9</ele>
+    <time>2025-07-02T14:04:56Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>410.00</gpxdata:distance>
+     <gpxdata:speed>1.200</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232338" lon="-63.0457353">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:57Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>411.00</gpxdata:distance>
+     <gpxdata:speed>1.200</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232330" lon="-63.0457190">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:58Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>412.00</gpxdata:distance>
+     <gpxdata:speed>1.200</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232351" lon="-63.0457055">
+    <ele>8</ele>
+    <time>2025-07-02T14:04:59Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>412.00</gpxdata:distance>
+     <gpxdata:speed>1.200</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232373" lon="-63.0456920">
+    <ele>8</ele>
+    <time>2025-07-02T14:05:00Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>412.00</gpxdata:distance>
+     <gpxdata:speed>1.200</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232399" lon="-63.0456866">
+    <ele>8</ele>
+    <time>2025-07-02T14:05:01Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>412.50</gpxdata:distance>
+     <gpxdata:speed>1.194</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232426" lon="-63.0456812">
+    <ele>8</ele>
+    <time>2025-07-02T14:05:02Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>413.00</gpxdata:distance>
+     <gpxdata:speed>1.192</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232598" lon="-63.0456753">
+    <ele>9</ele>
+    <time>2025-07-02T14:05:32Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>413.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232705" lon="-63.0456706">
+    <ele>9</ele>
+    <time>2025-07-02T14:05:33Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>416.50</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232812" lon="-63.0456660">
+    <ele>9</ele>
+    <time>2025-07-02T14:05:34Z</time>
+    <extensions>
+     <gpxdata:hr>94</gpxdata:hr>
+     <gpxdata:distance>420.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232898" lon="-63.0456600">
+    <ele>9</ele>
+    <time>2025-07-02T14:05:35Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>421.50</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2232984" lon="-63.0456540">
+    <ele>9</ele>
+    <time>2025-07-02T14:05:36Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>423.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233088" lon="-63.0456448">
+    <ele>9</ele>
+    <time>2025-07-02T14:05:37Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>424.50</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233192" lon="-63.0456356">
+    <ele>9</ele>
+    <time>2025-07-02T14:05:38Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>426.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233311" lon="-63.0456238">
+    <ele>9</ele>
+    <time>2025-07-02T14:05:39Z</time>
+    <extensions>
+     <gpxdata:hr>98</gpxdata:hr>
+     <gpxdata:distance>427.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233430" lon="-63.0456121">
+    <ele>9</ele>
+    <time>2025-07-02T14:05:40Z</time>
+    <extensions>
+     <gpxdata:hr>100</gpxdata:hr>
+     <gpxdata:distance>428.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233534" lon="-63.0456004">
+    <ele>9</ele>
+    <time>2025-07-02T14:05:41Z</time>
+    <extensions>
+     <gpxdata:hr>102</gpxdata:hr>
+     <gpxdata:distance>429.00</gpxdata:distance>
+     <gpxdata:speed>0.611</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233639" lon="-63.0455888">
+    <ele>8</ele>
+    <time>2025-07-02T14:05:42Z</time>
+    <extensions>
+     <gpxdata:hr>103</gpxdata:hr>
+     <gpxdata:distance>430.00</gpxdata:distance>
+     <gpxdata:speed>1.222</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233734" lon="-63.0455794">
+    <ele>8</ele>
+    <time>2025-07-02T14:05:43Z</time>
+    <extensions>
+     <gpxdata:hr>103</gpxdata:hr>
+     <gpxdata:distance>431.50</gpxdata:distance>
+     <gpxdata:speed>1.214</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233830" lon="-63.0455701">
+    <ele>8</ele>
+    <time>2025-07-02T14:05:44Z</time>
+    <extensions>
+     <gpxdata:hr>102</gpxdata:hr>
+     <gpxdata:distance>433.00</gpxdata:distance>
+     <gpxdata:speed>1.208</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2233933" lon="-63.0455605">
+    <ele>8</ele>
+    <time>2025-07-02T14:05:45Z</time>
+    <extensions>
+     <gpxdata:hr>102</gpxdata:hr>
+     <gpxdata:distance>435.00</gpxdata:distance>
+     <gpxdata:speed>1.208</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234036" lon="-63.0455509">
+    <ele>8</ele>
+    <time>2025-07-02T14:05:46Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>437.00</gpxdata:distance>
+     <gpxdata:speed>1.211</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234153" lon="-63.0455416">
+    <ele>8</ele>
+    <time>2025-07-02T14:05:47Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>438.00</gpxdata:distance>
+     <gpxdata:speed>1.203</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234271" lon="-63.0455324">
+    <ele>8</ele>
+    <time>2025-07-02T14:05:48Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>439.00</gpxdata:distance>
+     <gpxdata:speed>1.197</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234387" lon="-63.0455244">
+    <ele>8</ele>
+    <time>2025-07-02T14:05:49Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>440.50</gpxdata:distance>
+     <gpxdata:speed>1.197</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234503" lon="-63.0455164">
+    <ele>8</ele>
+    <time>2025-07-02T14:05:50Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>442.00</gpxdata:distance>
+     <gpxdata:speed>1.200</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234610" lon="-63.0455081">
+    <ele>8</ele>
+    <time>2025-07-02T14:05:51Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>443.00</gpxdata:distance>
+     <gpxdata:speed>1.189</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234718" lon="-63.0454998">
+    <ele>7</ele>
+    <time>2025-07-02T14:05:52Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>444.00</gpxdata:distance>
+     <gpxdata:speed>1.181</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234818" lon="-63.0454944">
+    <ele>7</ele>
+    <time>2025-07-02T14:05:53Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>445.50</gpxdata:distance>
+     <gpxdata:speed>1.175</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2234918" lon="-63.0454890">
+    <ele>7</ele>
+    <time>2025-07-02T14:05:54Z</time>
+    <extensions>
+     <gpxdata:hr>102</gpxdata:hr>
+     <gpxdata:distance>447.00</gpxdata:distance>
+     <gpxdata:speed>1.172</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235031" lon="-63.0454874">
+    <ele>7</ele>
+    <time>2025-07-02T14:05:55Z</time>
+    <extensions>
+     <gpxdata:hr>102</gpxdata:hr>
+     <gpxdata:distance>448.00</gpxdata:distance>
+     <gpxdata:speed>1.175</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235144" lon="-63.0454859">
+    <ele>7</ele>
+    <time>2025-07-02T14:05:56Z</time>
+    <extensions>
+     <gpxdata:hr>102</gpxdata:hr>
+     <gpxdata:distance>449.00</gpxdata:distance>
+     <gpxdata:speed>1.178</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235263" lon="-63.0454869">
+    <ele>7</ele>
+    <time>2025-07-02T14:05:57Z</time>
+    <extensions>
+     <gpxdata:hr>102</gpxdata:hr>
+     <gpxdata:distance>450.50</gpxdata:distance>
+     <gpxdata:speed>1.181</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235382" lon="-63.0454879">
+    <ele>7</ele>
+    <time>2025-07-02T14:05:58Z</time>
+    <extensions>
+     <gpxdata:hr>102</gpxdata:hr>
+     <gpxdata:distance>452.00</gpxdata:distance>
+     <gpxdata:speed>1.186</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235499" lon="-63.0454894">
+    <ele>7</ele>
+    <time>2025-07-02T14:05:59Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>453.00</gpxdata:distance>
+     <gpxdata:speed>1.186</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235616" lon="-63.0454909">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:00Z</time>
+    <extensions>
+     <gpxdata:hr>100</gpxdata:hr>
+     <gpxdata:distance>454.00</gpxdata:distance>
+     <gpxdata:speed>1.186</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235725" lon="-63.0454912">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:01Z</time>
+    <extensions>
+     <gpxdata:hr>100</gpxdata:hr>
+     <gpxdata:distance>455.00</gpxdata:distance>
+     <gpxdata:speed>1.183</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235834" lon="-63.0454915">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:02Z</time>
+    <extensions>
+     <gpxdata:hr>100</gpxdata:hr>
+     <gpxdata:distance>456.00</gpxdata:distance>
+     <gpxdata:speed>1.181</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2235938" lon="-63.0454914">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:03Z</time>
+    <extensions>
+     <gpxdata:hr>102</gpxdata:hr>
+     <gpxdata:distance>457.50</gpxdata:distance>
+     <gpxdata:speed>1.175</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236042" lon="-63.0454914">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:04Z</time>
+    <extensions>
+     <gpxdata:hr>102</gpxdata:hr>
+     <gpxdata:distance>459.00</gpxdata:distance>
+     <gpxdata:speed>1.169</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236151" lon="-63.0454901">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:05Z</time>
+    <extensions>
+     <gpxdata:hr>102</gpxdata:hr>
+     <gpxdata:distance>460.50</gpxdata:distance>
+     <gpxdata:speed>1.161</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236261" lon="-63.0454889">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:06Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>462.00</gpxdata:distance>
+     <gpxdata:speed>1.156</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236373" lon="-63.0454865">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:07Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>463.00</gpxdata:distance>
+     <gpxdata:speed>1.147</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236486" lon="-63.0454841">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:08Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>464.00</gpxdata:distance>
+     <gpxdata:speed>1.142</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236604" lon="-63.0454838">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:09Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>465.50</gpxdata:distance>
+     <gpxdata:speed>1.139</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236722" lon="-63.0454835">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:10Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>467.00</gpxdata:distance>
+     <gpxdata:speed>1.136</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236836" lon="-63.0454852">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:11Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>468.00</gpxdata:distance>
+     <gpxdata:speed>1.136</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2236951" lon="-63.0454869">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:12Z</time>
+    <extensions>
+     <gpxdata:hr>99</gpxdata:hr>
+     <gpxdata:distance>469.00</gpxdata:distance>
+     <gpxdata:speed>1.136</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237065" lon="-63.0454857">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:13Z</time>
+    <extensions>
+     <gpxdata:hr>98</gpxdata:hr>
+     <gpxdata:distance>470.50</gpxdata:distance>
+     <gpxdata:speed>1.136</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237180" lon="-63.0454845">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:14Z</time>
+    <extensions>
+     <gpxdata:hr>98</gpxdata:hr>
+     <gpxdata:distance>472.00</gpxdata:distance>
+     <gpxdata:speed>1.136</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237292" lon="-63.0454783">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:15Z</time>
+    <extensions>
+     <gpxdata:hr>98</gpxdata:hr>
+     <gpxdata:distance>473.00</gpxdata:distance>
+     <gpxdata:speed>1.133</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237405" lon="-63.0454721">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:16Z</time>
+    <extensions>
+     <gpxdata:hr>97</gpxdata:hr>
+     <gpxdata:distance>474.00</gpxdata:distance>
+     <gpxdata:speed>1.133</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237491" lon="-63.0454618">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:17Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>475.50</gpxdata:distance>
+     <gpxdata:speed>1.133</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237577" lon="-63.0454515">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:18Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>477.00</gpxdata:distance>
+     <gpxdata:speed>1.133</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237649" lon="-63.0454397">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:19Z</time>
+    <extensions>
+     <gpxdata:hr>94</gpxdata:hr>
+     <gpxdata:distance>478.00</gpxdata:distance>
+     <gpxdata:speed>1.136</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237722" lon="-63.0454280">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:20Z</time>
+    <extensions>
+     <gpxdata:hr>93</gpxdata:hr>
+     <gpxdata:distance>479.00</gpxdata:distance>
+     <gpxdata:speed>1.139</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237782" lon="-63.0454151">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:21Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>480.00</gpxdata:distance>
+     <gpxdata:speed>1.139</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237842" lon="-63.0454023">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:22Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>481.00</gpxdata:distance>
+     <gpxdata:speed>1.139</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237893" lon="-63.0453883">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:23Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>482.50</gpxdata:distance>
+     <gpxdata:speed>1.139</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237944" lon="-63.0453743">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:24Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>484.00</gpxdata:distance>
+     <gpxdata:speed>1.139</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2237999" lon="-63.0453592">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:25Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>485.00</gpxdata:distance>
+     <gpxdata:speed>1.142</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238055" lon="-63.0453442">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:26Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>486.00</gpxdata:distance>
+     <gpxdata:speed>1.147</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238105" lon="-63.0453286">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:27Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>487.50</gpxdata:distance>
+     <gpxdata:speed>1.147</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238155" lon="-63.0453131">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:28Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>489.00</gpxdata:distance>
+     <gpxdata:speed>1.147</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238201" lon="-63.0452968">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:29Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>490.50</gpxdata:distance>
+     <gpxdata:speed>1.147</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238247" lon="-63.0452805">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:30Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>492.00</gpxdata:distance>
+     <gpxdata:speed>1.147</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238285" lon="-63.0452646">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:31Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>493.00</gpxdata:distance>
+     <gpxdata:speed>1.147</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238324" lon="-63.0452487">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:32Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>494.00</gpxdata:distance>
+     <gpxdata:speed>1.147</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238364" lon="-63.0452333">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:33Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>495.00</gpxdata:distance>
+     <gpxdata:speed>1.147</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238405" lon="-63.0452179">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:34Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>496.00</gpxdata:distance>
+     <gpxdata:speed>1.147</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238451" lon="-63.0452029">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:35Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>497.50</gpxdata:distance>
+     <gpxdata:speed>1.139</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238498" lon="-63.0451880">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:36Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>499.00</gpxdata:distance>
+     <gpxdata:speed>1.133</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238552" lon="-63.0451725">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:37Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>500.00</gpxdata:distance>
+     <gpxdata:speed>1.133</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238606" lon="-63.0451571">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:38Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>501.00</gpxdata:distance>
+     <gpxdata:speed>1.133</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238655" lon="-63.0451428">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:39Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>502.00</gpxdata:distance>
+     <gpxdata:speed>1.122</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238704" lon="-63.0451285">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:40Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>503.00</gpxdata:distance>
+     <gpxdata:speed>1.111</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238738" lon="-63.0451169">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:41Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>503.50</gpxdata:distance>
+     <gpxdata:speed>1.111</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238773" lon="-63.0451054">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:42Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>504.00</gpxdata:distance>
+     <gpxdata:speed>1.111</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238799" lon="-63.0450948">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:43Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>505.00</gpxdata:distance>
+     <gpxdata:speed>1.111</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238826" lon="-63.0450843">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:44Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>506.00</gpxdata:distance>
+     <gpxdata:speed>1.111</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238855" lon="-63.0450733">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:45Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>507.00</gpxdata:distance>
+     <gpxdata:speed>1.097</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238884" lon="-63.0450623">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:46Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>508.00</gpxdata:distance>
+     <gpxdata:speed>1.086</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238917" lon="-63.0450498">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:47Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>509.00</gpxdata:distance>
+     <gpxdata:speed>1.086</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238951" lon="-63.0450374">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:48Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>510.00</gpxdata:distance>
+     <gpxdata:speed>1.086</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2238984" lon="-63.0450241">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:49Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>511.00</gpxdata:distance>
+     <gpxdata:speed>1.069</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239017" lon="-63.0450109">
+    <ele>6</ele>
+    <time>2025-07-02T14:06:50Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>512.00</gpxdata:distance>
+     <gpxdata:speed>1.056</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239047" lon="-63.0449975">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:51Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>513.50</gpxdata:distance>
+     <gpxdata:speed>1.056</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239078" lon="-63.0449841">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:52Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>515.00</gpxdata:distance>
+     <gpxdata:speed>1.056</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239115" lon="-63.0449698">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:53Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>516.00</gpxdata:distance>
+     <gpxdata:speed>1.056</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239152" lon="-63.0449556">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:54Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>517.00</gpxdata:distance>
+     <gpxdata:speed>1.056</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239196" lon="-63.0449412">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:55Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>518.50</gpxdata:distance>
+     <gpxdata:speed>1.033</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239241" lon="-63.0449269">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:56Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>520.00</gpxdata:distance>
+     <gpxdata:speed>1.011</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239290" lon="-63.0449119">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:57Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>521.00</gpxdata:distance>
+     <gpxdata:speed>1.011</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239339" lon="-63.0448969">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:58Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>522.00</gpxdata:distance>
+     <gpxdata:speed>1.011</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239389" lon="-63.0448809">
+    <ele>7</ele>
+    <time>2025-07-02T14:06:59Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>523.00</gpxdata:distance>
+     <gpxdata:speed>0.997</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239440" lon="-63.0448649">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:00Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>524.00</gpxdata:distance>
+     <gpxdata:speed>0.986</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239479" lon="-63.0448493">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:01Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>525.50</gpxdata:distance>
+     <gpxdata:speed>0.986</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239518" lon="-63.0448338">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:02Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>527.00</gpxdata:distance>
+     <gpxdata:speed>0.986</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239547" lon="-63.0448179">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:03Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>528.00</gpxdata:distance>
+     <gpxdata:speed>0.986</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239576" lon="-63.0448021">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:04Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>529.00</gpxdata:distance>
+     <gpxdata:speed>0.986</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239603" lon="-63.0447872">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:05Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>530.00</gpxdata:distance>
+     <gpxdata:speed>0.989</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239631" lon="-63.0447724">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:06Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>531.00</gpxdata:distance>
+     <gpxdata:speed>0.992</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239651" lon="-63.0447576">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:07Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>532.00</gpxdata:distance>
+     <gpxdata:speed>0.992</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239671" lon="-63.0447428">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:08Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>533.00</gpxdata:distance>
+     <gpxdata:speed>0.992</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239688" lon="-63.0447288">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:09Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>534.00</gpxdata:distance>
+     <gpxdata:speed>0.997</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239705" lon="-63.0447149">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:10Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>535.00</gpxdata:distance>
+     <gpxdata:speed>1.003</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239725" lon="-63.0447013">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:11Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>536.00</gpxdata:distance>
+     <gpxdata:speed>1.003</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239745" lon="-63.0446878">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:12Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>537.00</gpxdata:distance>
+     <gpxdata:speed>1.003</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239768" lon="-63.0446740">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:13Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>538.00</gpxdata:distance>
+     <gpxdata:speed>1.003</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239791" lon="-63.0446603">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:14Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>539.00</gpxdata:distance>
+     <gpxdata:speed>1.003</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239810" lon="-63.0446474">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:15Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>540.00</gpxdata:distance>
+     <gpxdata:speed>0.997</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239830" lon="-63.0446345">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:16Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>541.00</gpxdata:distance>
+     <gpxdata:speed>0.992</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239855" lon="-63.0446240">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:17Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>541.00</gpxdata:distance>
+     <gpxdata:speed>0.992</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239881" lon="-63.0446136">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:18Z</time>
+    <extensions>
+     <gpxdata:hr>88</gpxdata:hr>
+     <gpxdata:distance>541.00</gpxdata:distance>
+     <gpxdata:speed>0.992</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239898" lon="-63.0446075">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:19Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>542.50</gpxdata:distance>
+     <gpxdata:speed>0.978</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239915" lon="-63.0446015">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:20Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>544.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239941" lon="-63.0445899">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:21Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>545.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239968" lon="-63.0445783">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:22Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>546.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2239992" lon="-63.0445658">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:23Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>546.50</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240017" lon="-63.0445534">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:24Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>547.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240040" lon="-63.0445409">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:25Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>548.00</gpxdata:distance>
+     <gpxdata:speed>0.958</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240064" lon="-63.0445284">
+    <ele>7</ele>
+    <time>2025-07-02T14:07:26Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>549.00</gpxdata:distance>
+     <gpxdata:speed>0.950</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240097" lon="-63.0445158">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:27Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>550.50</gpxdata:distance>
+     <gpxdata:speed>0.950</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240130" lon="-63.0445032">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:28Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>552.00</gpxdata:distance>
+     <gpxdata:speed>0.950</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240170" lon="-63.0444887">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:29Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>553.00</gpxdata:distance>
+     <gpxdata:speed>0.947</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240210" lon="-63.0444742">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:30Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>554.00</gpxdata:distance>
+     <gpxdata:speed>0.947</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240242" lon="-63.0444604">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:31Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>555.00</gpxdata:distance>
+     <gpxdata:speed>0.947</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240275" lon="-63.0444466">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:32Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>556.00</gpxdata:distance>
+     <gpxdata:speed>0.947</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240309" lon="-63.0444333">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:33Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>557.00</gpxdata:distance>
+     <gpxdata:speed>0.947</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240344" lon="-63.0444201">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:34Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>558.00</gpxdata:distance>
+     <gpxdata:speed>0.947</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240475" lon="-63.0443935">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:52Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>558.00</gpxdata:distance>
+     <gpxdata:speed>1.078</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240550" lon="-63.0443869">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:53Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>560.50</gpxdata:distance>
+     <gpxdata:speed>1.086</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240625" lon="-63.0443804">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:54Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>563.00</gpxdata:distance>
+     <gpxdata:speed>1.097</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240694" lon="-63.0443749">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:55Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>564.00</gpxdata:distance>
+     <gpxdata:speed>1.097</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240764" lon="-63.0443695">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:56Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>565.00</gpxdata:distance>
+     <gpxdata:speed>1.097</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240827" lon="-63.0443593">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:57Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>566.00</gpxdata:distance>
+     <gpxdata:speed>1.081</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240891" lon="-63.0443492">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:58Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>567.00</gpxdata:distance>
+     <gpxdata:speed>1.067</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240942" lon="-63.0443352">
+    <ele>6</ele>
+    <time>2025-07-02T14:07:59Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>567.50</gpxdata:distance>
+     <gpxdata:speed>1.067</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2240993" lon="-63.0443213">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:00Z</time>
+    <extensions>
+     <gpxdata:hr>82</gpxdata:hr>
+     <gpxdata:distance>568.00</gpxdata:distance>
+     <gpxdata:speed>1.067</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241031" lon="-63.0443038">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:15Z</time>
+    <extensions>
+     <gpxdata:hr>81</gpxdata:hr>
+     <gpxdata:distance>568.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241059" lon="-63.0442932">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:16Z</time>
+    <extensions>
+     <gpxdata:hr>81</gpxdata:hr>
+     <gpxdata:distance>568.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241088" lon="-63.0442827">
+    <ele>5</ele>
+    <time>2025-07-02T14:08:17Z</time>
+    <extensions>
+     <gpxdata:hr>81</gpxdata:hr>
+     <gpxdata:distance>570.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241128" lon="-63.0442736">
+    <ele>5</ele>
+    <time>2025-07-02T14:08:18Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>572.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241168" lon="-63.0442646">
+    <ele>5</ele>
+    <time>2025-07-02T14:08:19Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>573.50</gpxdata:distance>
+     <gpxdata:speed>0.650</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241240" lon="-63.0442564">
+    <ele>5</ele>
+    <time>2025-07-02T14:08:20Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>575.00</gpxdata:distance>
+     <gpxdata:speed>1.303</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241312" lon="-63.0442482">
+    <ele>5</ele>
+    <time>2025-07-02T14:08:21Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>576.50</gpxdata:distance>
+     <gpxdata:speed>1.297</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241414" lon="-63.0442410">
+    <ele>5</ele>
+    <time>2025-07-02T14:08:22Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>578.00</gpxdata:distance>
+     <gpxdata:speed>1.292</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241517" lon="-63.0442338">
+    <ele>5</ele>
+    <time>2025-07-02T14:08:23Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>579.00</gpxdata:distance>
+     <gpxdata:speed>1.456</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241630" lon="-63.0442256">
+    <ele>5</ele>
+    <time>2025-07-02T14:08:24Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>580.00</gpxdata:distance>
+     <gpxdata:speed>1.622</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241743" lon="-63.0442175">
+    <ele>5</ele>
+    <time>2025-07-02T14:08:25Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>581.00</gpxdata:distance>
+     <gpxdata:speed>1.517</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241835" lon="-63.0442086">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:26Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>582.00</gpxdata:distance>
+     <gpxdata:speed>1.414</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2241927" lon="-63.0441998">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:27Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>583.00</gpxdata:distance>
+     <gpxdata:speed>1.325</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242001" lon="-63.0441906">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:28Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>584.00</gpxdata:distance>
+     <gpxdata:speed>1.239</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242075" lon="-63.0441814">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:29Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>585.00</gpxdata:distance>
+     <gpxdata:speed>1.203</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242146" lon="-63.0441727">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:30Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>586.00</gpxdata:distance>
+     <gpxdata:speed>1.169</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242217" lon="-63.0441640">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:31Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>587.00</gpxdata:distance>
+     <gpxdata:speed>1.150</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242288" lon="-63.0441557">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:32Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>588.00</gpxdata:distance>
+     <gpxdata:speed>1.131</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242360" lon="-63.0441474">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:33Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>589.00</gpxdata:distance>
+     <gpxdata:speed>1.119</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242424" lon="-63.0441384">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:34Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>590.00</gpxdata:distance>
+     <gpxdata:speed>1.108</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242488" lon="-63.0441295">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:35Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>590.00</gpxdata:distance>
+     <gpxdata:speed>1.106</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242507" lon="-63.0441265">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:36Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>590.00</gpxdata:distance>
+     <gpxdata:speed>1.103</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242526" lon="-63.0441236">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:37Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>590.00</gpxdata:distance>
+     <gpxdata:speed>1.111</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242545" lon="-63.0441207">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:38Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>590.00</gpxdata:distance>
+     <gpxdata:speed>1.122</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242564" lon="-63.0441178">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:39Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>590.00</gpxdata:distance>
+     <gpxdata:speed>1.122</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242618" lon="-63.0441098">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:40Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>590.00</gpxdata:distance>
+     <gpxdata:speed>1.125</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242672" lon="-63.0441019">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:41Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>592.50</gpxdata:distance>
+     <gpxdata:speed>1.097</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242733" lon="-63.0440951">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:42Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>595.00</gpxdata:distance>
+     <gpxdata:speed>1.069</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242794" lon="-63.0440884">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:43Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>595.50</gpxdata:distance>
+     <gpxdata:speed>1.064</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242867" lon="-63.0440819">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:44Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>596.00</gpxdata:distance>
+     <gpxdata:speed>1.058</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2242941" lon="-63.0440755">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:45Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>597.00</gpxdata:distance>
+     <gpxdata:speed>1.058</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243018" lon="-63.0440697">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:46Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>598.00</gpxdata:distance>
+     <gpxdata:speed>1.058</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243095" lon="-63.0440639">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:47Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>599.00</gpxdata:distance>
+     <gpxdata:speed>1.078</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243170" lon="-63.0440600">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:48Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>600.00</gpxdata:distance>
+     <gpxdata:speed>1.097</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243245" lon="-63.0440561">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:49Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>601.00</gpxdata:distance>
+     <gpxdata:speed>1.136</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243324" lon="-63.0440515">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:50Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>602.00</gpxdata:distance>
+     <gpxdata:speed>1.178</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243404" lon="-63.0440469">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:51Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>603.00</gpxdata:distance>
+     <gpxdata:speed>1.197</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243479" lon="-63.0440383">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:52Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>604.00</gpxdata:distance>
+     <gpxdata:speed>1.219</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243555" lon="-63.0440298">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:53Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>605.50</gpxdata:distance>
+     <gpxdata:speed>1.219</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243620" lon="-63.0440177">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:54Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>607.00</gpxdata:distance>
+     <gpxdata:speed>1.219</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243685" lon="-63.0440057">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:55Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>608.00</gpxdata:distance>
+     <gpxdata:speed>1.219</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243747" lon="-63.0439914">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:56Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>609.00</gpxdata:distance>
+     <gpxdata:speed>1.219</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243809" lon="-63.0439771">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:57Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>610.50</gpxdata:distance>
+     <gpxdata:speed>1.236</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243865" lon="-63.0439621">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:58Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>612.00</gpxdata:distance>
+     <gpxdata:speed>1.256</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243921" lon="-63.0439471">
+    <ele>6</ele>
+    <time>2025-07-02T14:08:59Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>613.50</gpxdata:distance>
+     <gpxdata:speed>1.256</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2243975" lon="-63.0439303">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:00Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>615.00</gpxdata:distance>
+     <gpxdata:speed>1.256</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244030" lon="-63.0439135">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:01Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>616.00</gpxdata:distance>
+     <gpxdata:speed>1.272</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244084" lon="-63.0438967">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:02Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>617.00</gpxdata:distance>
+     <gpxdata:speed>1.289</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244139" lon="-63.0438800">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:03Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>618.50</gpxdata:distance>
+     <gpxdata:speed>1.289</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244189" lon="-63.0438643">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:04Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>620.00</gpxdata:distance>
+     <gpxdata:speed>1.289</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244240" lon="-63.0438486">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:05Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>621.00</gpxdata:distance>
+     <gpxdata:speed>1.289</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244286" lon="-63.0438326">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:06Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>622.00</gpxdata:distance>
+     <gpxdata:speed>1.289</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244332" lon="-63.0438166">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:07Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>623.50</gpxdata:distance>
+     <gpxdata:speed>1.294</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244372" lon="-63.0438006">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:08Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>625.00</gpxdata:distance>
+     <gpxdata:speed>1.300</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244413" lon="-63.0437847">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:09Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>626.00</gpxdata:distance>
+     <gpxdata:speed>1.300</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244453" lon="-63.0437682">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:10Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>627.00</gpxdata:distance>
+     <gpxdata:speed>1.300</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244493" lon="-63.0437518">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:11Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>628.50</gpxdata:distance>
+     <gpxdata:speed>1.294</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244516" lon="-63.0437351">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:12Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>630.00</gpxdata:distance>
+     <gpxdata:speed>1.289</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244539" lon="-63.0437184">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:13Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>631.00</gpxdata:distance>
+     <gpxdata:speed>1.289</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244549" lon="-63.0437028">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:14Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>632.00</gpxdata:distance>
+     <gpxdata:speed>1.289</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244560" lon="-63.0436873">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:15Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>633.00</gpxdata:distance>
+     <gpxdata:speed>1.289</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244587" lon="-63.0436716">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:16Z</time>
+    <extensions>
+     <gpxdata:hr>83</gpxdata:hr>
+     <gpxdata:distance>634.00</gpxdata:distance>
+     <gpxdata:speed>1.289</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244614" lon="-63.0436560">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:17Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>635.50</gpxdata:distance>
+     <gpxdata:speed>1.247</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244648" lon="-63.0436394">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:18Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>637.00</gpxdata:distance>
+     <gpxdata:speed>1.208</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244682" lon="-63.0436228">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:19Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>638.00</gpxdata:distance>
+     <gpxdata:speed>1.208</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244715" lon="-63.0436064">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:20Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>639.00</gpxdata:distance>
+     <gpxdata:speed>1.208</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244749" lon="-63.0435900">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:21Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>640.00</gpxdata:distance>
+     <gpxdata:speed>1.153</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244775" lon="-63.0435742">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:22Z</time>
+    <extensions>
+     <gpxdata:hr>84</gpxdata:hr>
+     <gpxdata:distance>641.00</gpxdata:distance>
+     <gpxdata:speed>1.097</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244802" lon="-63.0435585">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:23Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>642.50</gpxdata:distance>
+     <gpxdata:speed>1.097</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244820" lon="-63.0435426">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:24Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>644.00</gpxdata:distance>
+     <gpxdata:speed>1.097</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244838" lon="-63.0435268">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:25Z</time>
+    <extensions>
+     <gpxdata:hr>85</gpxdata:hr>
+     <gpxdata:distance>645.00</gpxdata:distance>
+     <gpxdata:speed>1.097</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244844" lon="-63.0435105">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:26Z</time>
+    <extensions>
+     <gpxdata:hr>86</gpxdata:hr>
+     <gpxdata:distance>646.00</gpxdata:distance>
+     <gpxdata:speed>1.097</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244850" lon="-63.0434943">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:27Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>647.00</gpxdata:distance>
+     <gpxdata:speed>1.058</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244851" lon="-63.0434801">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:28Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>648.00</gpxdata:distance>
+     <gpxdata:speed>1.019</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244853" lon="-63.0434659">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:29Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>649.00</gpxdata:distance>
+     <gpxdata:speed>1.019</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244859" lon="-63.0434530">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:30Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>650.00</gpxdata:distance>
+     <gpxdata:speed>1.019</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244866" lon="-63.0434401">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:31Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>650.50</gpxdata:distance>
+     <gpxdata:speed>0.992</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244874" lon="-63.0434281">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:32Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>651.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244882" lon="-63.0434161">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:33Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>652.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244889" lon="-63.0434043">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:34Z</time>
+    <extensions>
+     <gpxdata:hr>87</gpxdata:hr>
+     <gpxdata:distance>653.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244897" lon="-63.0433926">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:35Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>654.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244922" lon="-63.0433810">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:36Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>655.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244947" lon="-63.0433694">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:37Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>656.00</gpxdata:distance>
+     <gpxdata:speed>0.947</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2244991" lon="-63.0433570">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:38Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>657.00</gpxdata:distance>
+     <gpxdata:speed>0.931</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245036" lon="-63.0433447">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:39Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>658.00</gpxdata:distance>
+     <gpxdata:speed>0.931</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245080" lon="-63.0433339">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:40Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>659.00</gpxdata:distance>
+     <gpxdata:speed>0.931</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245125" lon="-63.0433231">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:41Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>660.00</gpxdata:distance>
+     <gpxdata:speed>0.919</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245172" lon="-63.0433124">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:42Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>661.00</gpxdata:distance>
+     <gpxdata:speed>0.908</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245220" lon="-63.0433018">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:43Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>661.50</gpxdata:distance>
+     <gpxdata:speed>0.908</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245256" lon="-63.0432912">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:44Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>662.00</gpxdata:distance>
+     <gpxdata:speed>0.908</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245293" lon="-63.0432807">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:45Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>663.00</gpxdata:distance>
+     <gpxdata:speed>0.908</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245338" lon="-63.0432734">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:46Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>664.00</gpxdata:distance>
+     <gpxdata:speed>0.908</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245383" lon="-63.0432661">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:47Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>665.00</gpxdata:distance>
+     <gpxdata:speed>0.900</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245453" lon="-63.0432605">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:48Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>666.00</gpxdata:distance>
+     <gpxdata:speed>0.894</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245524" lon="-63.0432550">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:49Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>667.00</gpxdata:distance>
+     <gpxdata:speed>0.894</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245608" lon="-63.0432475">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:50Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>668.00</gpxdata:distance>
+     <gpxdata:speed>0.894</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245693" lon="-63.0432401">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:51Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>669.50</gpxdata:distance>
+     <gpxdata:speed>0.897</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245766" lon="-63.0432290">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:52Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>671.00</gpxdata:distance>
+     <gpxdata:speed>0.900</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245840" lon="-63.0432180">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:53Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>672.50</gpxdata:distance>
+     <gpxdata:speed>0.900</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245893" lon="-63.0432026">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:54Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>674.00</gpxdata:distance>
+     <gpxdata:speed>0.900</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245947" lon="-63.0431872">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:55Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>675.50</gpxdata:distance>
+     <gpxdata:speed>0.900</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2245990" lon="-63.0431690">
+    <ele>7</ele>
+    <time>2025-07-02T14:09:56Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>677.00</gpxdata:distance>
+     <gpxdata:speed>0.900</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2246033" lon="-63.0431509">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:57Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>678.50</gpxdata:distance>
+     <gpxdata:speed>0.908</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2246074" lon="-63.0431318">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:58Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>680.00</gpxdata:distance>
+     <gpxdata:speed>0.917</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2246115" lon="-63.0431127">
+    <ele>6</ele>
+    <time>2025-07-02T14:09:59Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>681.00</gpxdata:distance>
+     <gpxdata:speed>0.917</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2246158" lon="-63.0430934">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:00Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>682.00</gpxdata:distance>
+     <gpxdata:speed>0.917</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2246202" lon="-63.0430742">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:01Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>683.50</gpxdata:distance>
+     <gpxdata:speed>0.942</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2246243" lon="-63.0430558">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:02Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>685.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2246285" lon="-63.0430374">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:03Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>686.50</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2246340" lon="-63.0430197">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:04Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>688.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2246395" lon="-63.0430020">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:05Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>689.50</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2246476" lon="-63.0429852">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:06Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>691.00</gpxdata:distance>
+     <gpxdata:speed>0.967</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2246558" lon="-63.0429685">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:07Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>693.00</gpxdata:distance>
+     <gpxdata:speed>1.006</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2246658" lon="-63.0429527">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:08Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>695.00</gpxdata:distance>
+     <gpxdata:speed>1.047</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2246758" lon="-63.0429369">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:09Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>696.50</gpxdata:distance>
+     <gpxdata:speed>1.047</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2246860" lon="-63.0429210">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:10Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>698.00</gpxdata:distance>
+     <gpxdata:speed>1.047</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2246963" lon="-63.0429052">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:11Z</time>
+    <extensions>
+     <gpxdata:hr>93</gpxdata:hr>
+     <gpxdata:distance>699.50</gpxdata:distance>
+     <gpxdata:speed>1.089</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2247060" lon="-63.0428894">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:12Z</time>
+    <extensions>
+     <gpxdata:hr>93</gpxdata:hr>
+     <gpxdata:distance>701.00</gpxdata:distance>
+     <gpxdata:speed>1.131</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2247157" lon="-63.0428736">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:13Z</time>
+    <extensions>
+     <gpxdata:hr>93</gpxdata:hr>
+     <gpxdata:distance>702.50</gpxdata:distance>
+     <gpxdata:speed>1.131</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2247248" lon="-63.0428581">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:14Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>704.00</gpxdata:distance>
+     <gpxdata:speed>1.131</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2247339" lon="-63.0428426">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:15Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>705.00</gpxdata:distance>
+     <gpxdata:speed>1.131</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2247422" lon="-63.0428283">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:16Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>706.00</gpxdata:distance>
+     <gpxdata:speed>1.131</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2247505" lon="-63.0428141">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:17Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>707.50</gpxdata:distance>
+     <gpxdata:speed>1.161</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2247589" lon="-63.0427992">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:18Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>709.00</gpxdata:distance>
+     <gpxdata:speed>1.194</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2247674" lon="-63.0427844">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:19Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>710.50</gpxdata:distance>
+     <gpxdata:speed>1.194</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2247757" lon="-63.0427690">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:20Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>712.00</gpxdata:distance>
+     <gpxdata:speed>1.194</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2247841" lon="-63.0427537">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:21Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>714.00</gpxdata:distance>
+     <gpxdata:speed>1.225</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2247933" lon="-63.0427371">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:22Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>716.00</gpxdata:distance>
+     <gpxdata:speed>1.256</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2248026" lon="-63.0427206">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:23Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>717.50</gpxdata:distance>
+     <gpxdata:speed>1.256</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2248126" lon="-63.0427038">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:24Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>719.00</gpxdata:distance>
+     <gpxdata:speed>1.256</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2248227" lon="-63.0426871">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:25Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>720.50</gpxdata:distance>
+     <gpxdata:speed>1.256</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2248335" lon="-63.0426723">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:26Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>722.00</gpxdata:distance>
+     <gpxdata:speed>1.256</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2248443" lon="-63.0426576">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:27Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>724.00</gpxdata:distance>
+     <gpxdata:speed>1.275</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2248558" lon="-63.0426430">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:28Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>726.00</gpxdata:distance>
+     <gpxdata:speed>1.297</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2248674" lon="-63.0426285">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:29Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>727.50</gpxdata:distance>
+     <gpxdata:speed>1.297</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2248777" lon="-63.0426124">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:30Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>729.00</gpxdata:distance>
+     <gpxdata:speed>1.297</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2248880" lon="-63.0425963">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:31Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>730.50</gpxdata:distance>
+     <gpxdata:speed>1.314</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2248966" lon="-63.0425796">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:32Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>732.00</gpxdata:distance>
+     <gpxdata:speed>1.331</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2249053" lon="-63.0425630">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:33Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>733.50</gpxdata:distance>
+     <gpxdata:speed>1.331</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2249128" lon="-63.0425465">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:34Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>735.00</gpxdata:distance>
+     <gpxdata:speed>1.331</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2249204" lon="-63.0425301">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:35Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>736.00</gpxdata:distance>
+     <gpxdata:speed>1.331</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2249281" lon="-63.0425147">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:36Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>737.00</gpxdata:distance>
+     <gpxdata:speed>1.331</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2249358" lon="-63.0424994">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:37Z</time>
+    <extensions>
+     <gpxdata:hr>90</gpxdata:hr>
+     <gpxdata:distance>738.50</gpxdata:distance>
+     <gpxdata:speed>1.342</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2249446" lon="-63.0424856">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:38Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>740.00</gpxdata:distance>
+     <gpxdata:speed>1.353</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2249535" lon="-63.0424719">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:39Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>741.50</gpxdata:distance>
+     <gpxdata:speed>1.353</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2249622" lon="-63.0424572">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:40Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>743.00</gpxdata:distance>
+     <gpxdata:speed>1.353</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2249710" lon="-63.0424425">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:41Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>744.50</gpxdata:distance>
+     <gpxdata:speed>1.350</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2249773" lon="-63.0424251">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:42Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>746.00</gpxdata:distance>
+     <gpxdata:speed>1.347</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2249837" lon="-63.0424078">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:43Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>747.50</gpxdata:distance>
+     <gpxdata:speed>1.347</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2249881" lon="-63.0423898">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:44Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>749.00</gpxdata:distance>
+     <gpxdata:speed>1.347</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2249925" lon="-63.0423718">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:45Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>750.50</gpxdata:distance>
+     <gpxdata:speed>1.347</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2249974" lon="-63.0423546">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:46Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>752.00</gpxdata:distance>
+     <gpxdata:speed>1.347</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2250023" lon="-63.0423374">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:47Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>753.50</gpxdata:distance>
+     <gpxdata:speed>1.336</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2250099" lon="-63.0423208">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:48Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>755.00</gpxdata:distance>
+     <gpxdata:speed>1.325</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2250175" lon="-63.0423043">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:49Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>756.50</gpxdata:distance>
+     <gpxdata:speed>1.325</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2250261" lon="-63.0422885">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:50Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>758.00</gpxdata:distance>
+     <gpxdata:speed>1.325</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2250348" lon="-63.0422728">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:51Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>759.00</gpxdata:distance>
+     <gpxdata:speed>1.322</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2250422" lon="-63.0422571">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:52Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>760.00</gpxdata:distance>
+     <gpxdata:speed>1.319</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2250497" lon="-63.0422414">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:53Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>761.00</gpxdata:distance>
+     <gpxdata:speed>1.319</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2250556" lon="-63.0422270">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:54Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>762.00</gpxdata:distance>
+     <gpxdata:speed>1.319</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2250616" lon="-63.0422126">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:55Z</time>
+    <extensions>
+     <gpxdata:hr>91</gpxdata:hr>
+     <gpxdata:distance>763.50</gpxdata:distance>
+     <gpxdata:speed>1.319</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2250670" lon="-63.0421982">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:56Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>765.00</gpxdata:distance>
+     <gpxdata:speed>1.319</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2250725" lon="-63.0421838">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:57Z</time>
+    <extensions>
+     <gpxdata:hr>92</gpxdata:hr>
+     <gpxdata:distance>766.50</gpxdata:distance>
+     <gpxdata:speed>1.311</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2250788" lon="-63.0421690">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:58Z</time>
+    <extensions>
+     <gpxdata:hr>93</gpxdata:hr>
+     <gpxdata:distance>768.00</gpxdata:distance>
+     <gpxdata:speed>1.306</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2250851" lon="-63.0421542">
+    <ele>6</ele>
+    <time>2025-07-02T14:10:59Z</time>
+    <extensions>
+     <gpxdata:hr>94</gpxdata:hr>
+     <gpxdata:distance>769.00</gpxdata:distance>
+     <gpxdata:speed>1.306</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2250916" lon="-63.0421403">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:00Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>770.00</gpxdata:distance>
+     <gpxdata:speed>1.306</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2250981" lon="-63.0421264">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:01Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>771.50</gpxdata:distance>
+     <gpxdata:speed>1.294</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2251042" lon="-63.0421121">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:02Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>773.00</gpxdata:distance>
+     <gpxdata:speed>1.283</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2251103" lon="-63.0420978">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:03Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>774.00</gpxdata:distance>
+     <gpxdata:speed>1.283</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2251154" lon="-63.0420828">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:04Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>775.00</gpxdata:distance>
+     <gpxdata:speed>1.283</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2251205" lon="-63.0420679">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:05Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>776.00</gpxdata:distance>
+     <gpxdata:speed>1.283</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2251247" lon="-63.0420542">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:06Z</time>
+    <extensions>
+     <gpxdata:hr>97</gpxdata:hr>
+     <gpxdata:distance>777.00</gpxdata:distance>
+     <gpxdata:speed>1.283</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2251290" lon="-63.0420406">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:07Z</time>
+    <extensions>
+     <gpxdata:hr>98</gpxdata:hr>
+     <gpxdata:distance>778.50</gpxdata:distance>
+     <gpxdata:speed>1.264</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2251343" lon="-63.0420271">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:08Z</time>
+    <extensions>
+     <gpxdata:hr>98</gpxdata:hr>
+     <gpxdata:distance>780.00</gpxdata:distance>
+     <gpxdata:speed>1.244</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2251396" lon="-63.0420136">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:09Z</time>
+    <extensions>
+     <gpxdata:hr>99</gpxdata:hr>
+     <gpxdata:distance>781.00</gpxdata:distance>
+     <gpxdata:speed>1.244</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2251466" lon="-63.0419995">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:10Z</time>
+    <extensions>
+     <gpxdata:hr>100</gpxdata:hr>
+     <gpxdata:distance>782.00</gpxdata:distance>
+     <gpxdata:speed>1.244</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2251537" lon="-63.0419855">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:11Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>783.50</gpxdata:distance>
+     <gpxdata:speed>1.236</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2251625" lon="-63.0419724">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:12Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>785.00</gpxdata:distance>
+     <gpxdata:speed>1.228</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2251713" lon="-63.0419593">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:13Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>787.00</gpxdata:distance>
+     <gpxdata:speed>1.228</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2251815" lon="-63.0419450">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:14Z</time>
+    <extensions>
+     <gpxdata:hr>101</gpxdata:hr>
+     <gpxdata:distance>789.00</gpxdata:distance>
+     <gpxdata:speed>1.228</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2251917" lon="-63.0419308">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:15Z</time>
+    <extensions>
+     <gpxdata:hr>100</gpxdata:hr>
+     <gpxdata:distance>790.00</gpxdata:distance>
+     <gpxdata:speed>1.228</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2252017" lon="-63.0419157">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:16Z</time>
+    <extensions>
+     <gpxdata:hr>100</gpxdata:hr>
+     <gpxdata:distance>791.00</gpxdata:distance>
+     <gpxdata:speed>1.228</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2252117" lon="-63.0419007">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:17Z</time>
+    <extensions>
+     <gpxdata:hr>99</gpxdata:hr>
+     <gpxdata:distance>792.50</gpxdata:distance>
+     <gpxdata:speed>1.236</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2252212" lon="-63.0418863">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:18Z</time>
+    <extensions>
+     <gpxdata:hr>97</gpxdata:hr>
+     <gpxdata:distance>794.00</gpxdata:distance>
+     <gpxdata:speed>1.244</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2252307" lon="-63.0418719">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:19Z</time>
+    <extensions>
+     <gpxdata:hr>96</gpxdata:hr>
+     <gpxdata:distance>795.50</gpxdata:distance>
+     <gpxdata:speed>1.244</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2252397" lon="-63.0418581">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:20Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>797.00</gpxdata:distance>
+     <gpxdata:speed>1.244</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2252488" lon="-63.0418443">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:21Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>798.50</gpxdata:distance>
+     <gpxdata:speed>1.261</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2252581" lon="-63.0418311">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:22Z</time>
+    <extensions>
+     <gpxdata:hr>95</gpxdata:hr>
+     <gpxdata:distance>800.00</gpxdata:distance>
+     <gpxdata:speed>1.281</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2252675" lon="-63.0418179">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:23Z</time>
+    <extensions>
+     <gpxdata:hr>94</gpxdata:hr>
+     <gpxdata:distance>801.50</gpxdata:distance>
+     <gpxdata:speed>1.281</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2252765" lon="-63.0418043">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:24Z</time>
+    <extensions>
+     <gpxdata:hr>93</gpxdata:hr>
+     <gpxdata:distance>803.00</gpxdata:distance>
+     <gpxdata:speed>1.281</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2252856" lon="-63.0417907">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:25Z</time>
+    <extensions>
+     <gpxdata:hr>93</gpxdata:hr>
+     <gpxdata:distance>804.00</gpxdata:distance>
+     <gpxdata:speed>1.281</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2252930" lon="-63.0417770">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:26Z</time>
+    <extensions>
+     <gpxdata:hr>93</gpxdata:hr>
+     <gpxdata:distance>805.00</gpxdata:distance>
+     <gpxdata:speed>1.281</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2253004" lon="-63.0417633">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:27Z</time>
+    <extensions>
+     <gpxdata:hr>93</gpxdata:hr>
+     <gpxdata:distance>805.50</gpxdata:distance>
+     <gpxdata:speed>1.294</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2253047" lon="-63.0417508">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:28Z</time>
+    <extensions>
+     <gpxdata:hr>93</gpxdata:hr>
+     <gpxdata:distance>806.00</gpxdata:distance>
+     <gpxdata:speed>1.308</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2253090" lon="-63.0417383">
+    <ele>6</ele>
+    <time>2025-07-02T14:11:29Z</time>
+    <extensions>
+     <gpxdata:hr>93</gpxdata:hr>
+     <gpxdata:distance>806.50</gpxdata:distance>
+     <gpxdata:speed>1.308</gpxdata:speed>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2253135" lon="-63.0417229">
+    <ele>6</ele>
+    <time>2025-07-02T14:13:04Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>807.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2253162" lon="-63.0417124">
+    <ele>6</ele>
+    <time>2025-07-02T14:13:05Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>807.50</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2253189" lon="-63.0417020">
+    <ele>6</ele>
+    <time>2025-07-02T14:13:06Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>808.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+   <trkpt lat="49.2253217" lon="-63.0416916">
+    <ele>6</ele>
+    <time>2025-07-02T14:13:07Z</time>
+    <extensions>
+     <gpxdata:hr>89</gpxdata:hr>
+     <gpxdata:distance>808.00</gpxdata:distance>
+    </extensions>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
