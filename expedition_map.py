@@ -43,13 +43,15 @@ m = folium.Map(
 gpx_files = [
     "day1-2025-06-26.gpx", "day2-2025-06-27.gpx", "day3-2025-06-28.gpx",
     "day4-2025-06-29.gpx", "day5-2025-06-30.gpx", "day6-2025-07-01.gpx",
-    "day7-2025-07-02.gpx", "day8-2025-07-03.gpx", "SE_day1.gpx", "SE_day1(2).gpx", "SE_day2.gpx", "SE_day3.gpx", "SE_day4.gpx", "SE_day5.gpx", "SE_day6.gpx", "SE_day7.gpx", "SE_day8.gpx", "SE_day9.gpx"
+    "day7-2025-07-02.gpx", "day8-2025-07-03.gpx", "SE_day1.gpx", "SE_day1_2.gpx", "SE_day2.gpx", "SE_day3.gpx", "SE_day4.gpx", "SE_day5.gpx", "SE_day6.gpx", "SE_day7.gpx", "SE_day8.gpx", "SE_day9.gpx"
 ]
 
 for gpx_file in gpx_files:
     try:
         with open(gpx_file, "r", encoding="utf-8") as f:
             gpx = gpxpy.parse(f)
+ # Choose line color based on filename
+        line_color = "black" if "SE" in gpx_file else "blue"
 
         # Tracks + segments
         for track in gpx.tracks:
@@ -82,6 +84,13 @@ for gpx_file in gpx_files:
 # 4. Add site markers
 # -------------------------------
 for _, row in sites.iterrows():
+# Determine marker color based on year
+    marker_color = "gray"  # default
+    if "date" in row and isinstance(row["date"], str):
+        if "2024" in row["date"]:
+            marker_color = "orange"
+        elif "2025" in row["date"]:
+            marker_color = "cadetblue"
     # Handle multiple photos (split by comma/semicolon)
     photos_html = ""
     if "photos" in row and isinstance(row["photos"], str) and row["photos"].strip():
@@ -110,12 +119,40 @@ for _, row in sites.iterrows():
     folium.Marker(
         location=[row["lat"], row["lon"]],
         popup=popup,
-        tooltip=row.get("name", "site")
+        tooltip=row.get("name", "site"),
+	icon=folium.Icon(color=marker_color, icon="info-sign")
     ).add_to(m)
 
-
 # -------------------------------
-# 5. Save map
+# 5. Add legend
+# -------------------------------
+legend_html = """
+<div style="
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+    width: 200px;
+    background-color: white;
+    border: 2px solid gray;
+    padding: 10px;
+    z-index: 1000;
+    font-size: 14px;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+">
+<b>Legend</b><br>
+<hr style="margin: 5px 0;">
+<div><span style="background-color: blue; width: 20px; height: 4px; display: inline-block; margin-right: 5px;"></span> 2025 Route</div>
+<div><span style="background-color: black; width: 20px; height: 4px; display: inline-block; margin-right: 5px;"></span> Sud-Est Route</div>
+<br>
+<div><span style="background-color: orange; width: 12px; height: 12px; display: inline-block; border-radius: 50%; margin-right: 5px;"></span> 2024 Site</div>
+<div><span style="background-color: cadetblue; width: 12px; height: 12px; display: inline-block; border-radius: 50%; margin-right: 5px;"></span> 2025 Site</div>
+<div><span style="background-color: gray; width: 12px; height: 12px; display: inline-block; border-radius: 50%; margin-right: 5px;"></span> Other Site</div>
+</div>
+"""
+
+m.get_root().html.add_child(folium.Element(legend_html))
+# -------------------------------
+# 6. Save map
 # -------------------------------
 m.save("expedition_map.html")
 print("✅ Map saved as expedition_map.html")
