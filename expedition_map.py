@@ -85,7 +85,7 @@ for gpx_file in gpx_files:
 # -------------------------------
 for _, row in sites.iterrows():
 # Determine marker color based on year
-    marker_color = "gray"  # default
+    marker_color = "cadetblue"  # default
     if "date" in row and isinstance(row["date"], str):
         if "2024" in row["date"]:
             marker_color = "orange"
@@ -141,9 +141,7 @@ legend_html = """
 ">
 <b>Legend</b><br>
 <hr style="margin: 5px 0;">
-<div><span style="background-color: blue; width: 20px; height: 4px; display: inline-block; margin-right: 5px;"></span> 2025 Route</div>
-<div><span style="background-color: black; width: 20px; height: 4px; display: inline-block; margin-right: 5px;"></span> Sud-Est Route</div>
-<br>
+<div><span style="background-color: blue; width: 20px; height: 4px; display: inline-block; margin-right: 5px;"></span> 2025 Routes</div>
 <div><span style="background-color: orange; width: 12px; height: 12px; display: inline-block; border-radius: 50%; margin-right: 5px;"></span> 2024 Site</div>
 <div><span style="background-color: cadetblue; width: 12px; height: 12px; display: inline-block; border-radius: 50%; margin-right: 5px;"></span> 2025 Site</div>
 <div><span style="background-color: gray; width: 12px; height: 12px; display: inline-block; border-radius: 50%; margin-right: 5px;"></span> Other Site</div>
