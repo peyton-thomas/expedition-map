@@ -11,7 +11,7 @@ The live interactive map is hosted on GitHub Pages:
 
 ## Repository Contents
 expedition-map/
-├── index.html # Interactive map (open in browser)
+├── expedition_map.html # Interactive map (open in browser)
 ├── expedition_map.py # Python script used to generate the map
 ├── anticosti25_map.csv # Expedition site data (lat/lon, metadata, photos)
 ├── gpx/ # GPS track files
