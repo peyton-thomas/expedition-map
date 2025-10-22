@@ -12,7 +12,7 @@ Ruisseau Grand Makasti,Nord-Ouest,2025,ruisseau,,3,49.93099,-64.2593,27/6/25,16:
 Pointe Nord,Nord-Ouest,2025,ruisseau,,1,49.94569,-64.1716,28/6/25,7:07,13.55735714,245.558333,0:31,1,14,13.7,"Images/pointe_nord1.jpg, Images/pointe_nord1_2.jpg"
 Pointe Nord,Nord-Ouest,2025,ruisseau,,2,49.94145,-64.1701,28/6/25,8:12,13.8365,246.441667,0:32,,,,Images/pointe_nord2.jpg
 Pointe Nord,Nord-Ouest,2025,ruisseau,,3,49.93966,-64.1677,28/6/25,9:09,13.653,245.975,0:13,,,,Images/pointe_nord3.jpg
-Baie des trois ruisseaux,Nord-Ouest,2025,ruisseau,,1,49.9264,-64.0735,28/6/25,11:49,18.86958333,57.075,0:31,4,16.38,13.63,Images/btr_1.jpg
+Baie des trois ruisseaux,Nord-Ouest,2025,ruisseau,,1,49.9264,-64.0735,28/6/25,11:49,18.86958333,57.075,0:31,4,16.38,13.63,"Images/btr_1.jpg, Images/btr_2.jpg"
 Anse Caron,Nord-Ouest,2025,ruisseau,,1,49.92121,-64.0045,28/6/25,13:55,15.133625,134.93125,0:40,,,,Images/anse_caron1.jpg
 Baie Martin,Nord-Ouest,2025,ruisseau,,1,49.87752,-63.8732,29/6/25,6:53,6.42675,193.308333,0:33,,,,Images/baie_martin1.jpg
 Baie Martin,Nord-Ouest,2025,ruisseau,,2,49.87538,-63.8766,29/6/25,7:45,4.993333333,185.233333,0:31,,,,Images/baie_martin2.jpg
@@ -83,7 +83,7 @@ Rivière to Lac Velleda,Sud-Est,2025,rivière,,2,49.34107,-61.96774,7/7/2025,10:41
 Rivière Prinsta,Sud-Est,2025,rivière,,1,49.34882,-61.97625,7/7/2025,12:52,22.51,330.064286,0:37,,,,Images_Prinsta_1_2025.jpg
 Rivière Prinsta,Sud-Est,2025,rivière,,2,49.34805,-61.98253,7/7/2025,13:48,25.545,262.075,0:31,,,,Images/Prinsta_2_2025.jpg
 Rivière Prinsta,Sud-Est,2025,rivière,,3,49.34915,-61.98873,7/7/2025,14:31,24.665,252.2,0:32,,,,
-Rivière Schmitt,Sud-Est,2025,rivière,,3,49.36992,-62.08632,8/7/2025,7:22,16.38666667,269.325,0:31,,,,Images/Schmitt_3_2025.jpg
+Rivière Schmitt,Sud-Est,2025,rivière,,3,49.36992,-62.08632,8/7/2025,7:22,16.38666667,269.325,0:31,,,,"Images/Schmitt_3_2025.jpg, Images/Schmitt_3_2_2025.jpg"
 Rivière Schmitt,Sud-Est,2025,rivière,,2,49.37435,-62.08019,8/7/2025,8:23,16.74333333,276.805556,0:47,,,,"Images/Schmitt_2_2025.jpg, Images/Schmitt_2_2_2025.jpg"
 Rivière Schmitt,Sud-Est,2025,rivière,,1,49.37705,-62.084,8/7/2025,9:26,21.20714286,370.992857,0:35,,,,"Images/Schmitt_1_2025.jpg, Images/Schmitt_1_2_2025.jpg, Images/Schmitt_1_3_2025.jpg"
 Rivière aux Saumons,Sud-Est,2025,rivière,yes,1,49.41936,-62.24899,9/7/2025,7:05,18.733,1945.25,0:46,,,,"Images/AuxSaumons_1_2025.jpg, Images/AuxSaumons_1_2_2025.jpg"

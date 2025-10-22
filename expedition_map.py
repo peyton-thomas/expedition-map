@@ -154,6 +154,6 @@ m.get_root().html.add_child(folium.Element(legend_html))
 # -------------------------------
 # 6. Save map
 # -------------------------------
-m.save("expedition_map.html")
-print("✅ Map saved as expedition_map.html")
+m.save("index.html")
+print("✅ Map saved as index.html")
 
