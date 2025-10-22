@@ -109,6 +109,8 @@ for _, row in sites.iterrows():
     if "conductivity" in row: html += f"<b>Conductivity:</b> {row['conductivity']} µS/cm<br>"
     if "team" in row: html += f"<b>Team:</b> {row['team']}<br>"
     if "fish_caught" in row: html += f"<b>Fish caught:</b> {row['fish_caught']}<br>"
+    if "fish_size_tl" in row: html += f"<b>Average fish total length:</b> {row['fish_size_tl']} cm<br>"
+    if "fish_size_fl" in row: html += f"<b>Average fish fork length:</b> {row['fish_size_fl']} cm<br>"
     if "type" in row: html += f"<b>Type:</b> {row['type']}<br>"
     if "salmon_river" in row: html += f"<b>Salmon River:</b> {row['salmon_river']}<br>"
     if "date" in row: html += f"<b>Date:</b> {row['date']}<br>"
