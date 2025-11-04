@@ -57,6 +57,7 @@ mv expedition_map.html index.html
 git add .
 git commit -m "update expedition map"
 git push
+
 (FR)
 1. Cloner ce dépôt 
    ```bash
