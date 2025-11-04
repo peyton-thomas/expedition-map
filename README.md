@@ -5,7 +5,7 @@
 Following the sampling, the next steps are to assess the similarities and differences among waterbodies sampled and sampling sites within waterbodies. Here, the research team will assess differences in species presence, addressing both broad biodiversity and the presence/absence of Brook trout and Atlantic salmon at the sampling time period. The team will analyze Brook trout otoliths from fish sampled across the island and water samples for trace metals to characterize the waterbodies geological signatures and assess the migratory history of Brook trout on the island.
 
 This repository contains an interactive map of an Anticosti Island field expedition to collect water for environmental DNA (eDNA) and trace metals, as well as fish caught opportunistically. Here we share the map along with the data and code used to generate it.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 (FR) Ce dépôt accompagne un rapport de terrain rédigé dans le cadre d'une expédition de recherche menée sur l'île d'Anticosti, financée par le Fonds de recherche du Québec - Nature et technologies (FRQNT). L'objectif principal de l'expédition et du projet dans son ensemble est de caractériser les plans d'eau à l'aide de variables physicochimiques, géologiques et biologiques, et de prélever des échantillons d'eau et de poissons dans les différents environnements de l'île. Le voyage de recherche s'est déroulé à pied, avec des prélèvements dans les rivières et les ruisseaux situés à moins d'un kilomètre de l'embouchure de la rivière, à trois points d'échantillonnage : l'embouchure de la rivière, 500 mètres en amont et 1 000 mètres en amont. Ces sites d'échantillonnage correspondaient à la zone tampon de biodiversité côtière désignée par l'UICN pour la limite de la réserve de biodiversité d'Anticosti, considérée comme la plus grande représentation mondiale de la biodiversité de la période ordovicienne (rapport d'évaluation de l'UICN, 2023). Des lagunes, des lacs et des étangs ont également été échantillonnés à plusieurs endroits le long des côtes, avec des points d'échantillonnage espacés de 500 mètres. Le voyage d'échantillonnage a été mené par deux équipes principales, avec le soutien de scientifiques de Patrimoine mondial Anticosti, du ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs, ainsi que de résidents et de visiteurs de l'île.
 
 Après l'échantillonnage, les étapes suivantes consistent à évaluer les similitudes et les différences entre les plans d'eau échantillonnés et les sites d'échantillonnage au sein de ces plans d'eau. L'équipe de recherche évaluera les différences dans la présence des espèces, en tenant compte à la fois de la biodiversité globale et de la présence ou de l'absence de l'omble de fontaine et du saumon de l'Atlantique au moment de l'échantillonnage. L'équipe analysera les otolithes des ombles de fontaine provenant des poissons prélevés sur l'île et les échantillons d'eau pour détecter la présence de métaux traces afin de caractériser les signatures géologiques des plans d'eau et d'évaluer l'histoire migratoire de l'omble de fontaine sur l'île.
@@ -58,8 +58,8 @@ git add .
 git commit -m "update expedition map"
 git push
 (FR)
-1. Cloner ce dépôt
-```bash
+1. Cloner ce dépôt 
+   ```bash
    git clone https://github.com/peyton-thomas/expedition-map.git
    cd expedition-map
 ## Installer folium
